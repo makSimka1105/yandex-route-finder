@@ -1,0 +1,68 @@
+{
+  "countries": [
+    {
+      "title": "Россия",
+      "regions": [
+        {
+          "title": "Северо-Запад",
+          "settlements": [
+            {
+              "title": "Санкт-Петербург",
+              "codes": { "yandex_code": "c2" },
+              "stations": [
+                {
+                  "title": "Московский вокзал",
+                  "codes": { "yandex_code": "s9602497" },
+                  "transport_type": "train",
+                  "station_type": "train_station"
+                },
+                {
+                  "title": "Финляндский вокзал",
+                  "codes": { "yandex_code": "s9602498" },
+                  "transport_type": "train",
+                  "station_type": "train_station"
+                },
+                {
+                  "title": "Площадь Ленина",
+                  "codes": { "yandex_code": "s9602499" },
+                  "transport_type": "suburban",
+                  "station_type": "station"
+                },
+                {
+                  "title": "Пулково",
+                  "codes": { "yandex_code": "s9602500" },
+                  "transport_type": "plane",
+                  "station_type": "airport"
+                },
+                {
+                  "title": "Автовокзал (СПб)",
+                  "codes": { "yandex_code": "s9602501" },
+                  "transport_type": "bus",
+                  "station_type": "bus_station"
+                },
+                {
+                  "title": "СПб-Ладожский",
+                  "codes": { "yandex_code": "s9602502" },
+                  "transport_type": "train",
+                  "station_type": "train_station"
+                },
+                {
+                  "title": "Балтийский вокзал",
+                  "codes": { "yandex_code": "s9602503" },
+                  "transport_type": "train",
+                  "station_type": "train_station"
+                },
+                {
+                  "title": "Витебский вокзал",
+                  "codes": { "yandex_code": "s9602504" },
+                  "transport_type": "train",
+                  "station_type": "train_station"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1638 @@
+{
+    "search": {
+        "from": {
+            "type": "settlement",
+            "title": "Кельн",
+            "short_title": "Кельн",
+            "popular_title": "Кельн",
+            "code": "c98"
+        },
+        "to": {
+            "type": "settlement",
+            "title": "Симферополь",
+            "short_title": "Симферополь",
+            "popular_title": "Симферополь",
+            "code": "c146"
+        },
+        "date": "2026-05-01"
+    },
+    "segments": [
+        {
+            "departure_from": {
+                "type": "station",
+                "title": "Кельн-Бонн",
+                "short_title": "",
+                "popular_title": "",
+                "code": "s9600405",
+                "station_type": "airport",
+                "station_type_name": "аэропорт",
+                "transport_type": "plane"
+            },
+            "arrival_to": {
+                "type": "station",
+                "title": "Симферополь, Центральный автовокзал",
+                "short_title": "",
+                "popular_title": "Автовокзал Центральный",
+                "code": "s9654608",
+                "station_type": "bus_station",
+                "station_type_name": "автовокзал",
+                "transport_type": "bus"
+            },
+            "transport_types": [
+                "plane",
+                "plane",
+                "bus"
+            ],
+            "departure": "2026-05-01T00:05:00+02:00",
+            "arrival": "2026-05-01T22:40:00+03:00",
+            "transfers": [
+                {
+                    "type": "settlement",
+                    "title": "Анталья",
+                    "short_title": "Анталья",
+                    "popular_title": "Анталья",
+                    "code": "c11511"
+                },
+                {
+                    "type": "settlement",
+                    "title": "Краснодар",
+                    "short_title": "Краснодар",
+                    "popular_title": "Краснодар",
+                    "code": "c35"
+                }
+            ],
+            "has_transfers": true,
+            "details": [
+                {
+                    "thread": {
+                        "number": "4M 402",
+                        "title": "Кельн — Анталья",
+                        "short_title": "Кельн — Анталья",
+                        "carrier": {
+                            "code": 1052,
+                            "title": "LATAM Argentina",
+                            "codes": {
+                                "sirena": null,
+                                "iata": "4M",
+                                "icao": "DSM"
+                            }
+                        },
+                        "vehicle": "Boeing 757-300",
+                        "express_type": null,
+                        "transport_type": "plane",
+                        "transport_subtype": {
+                            "title": null,
+                            "code": null,
+                            "color": null
+                        },
+                        "uid": "4M-402_260501_c1052_12"
+                    },
+                    "from": {
+                        "type": "settlement",
+                        "title": "Кельн",
+                        "short_title": "Кельн",
+                        "popular_title": "Кельн",
+                        "code": "c98"
+                    },
+                    "to": {
+                        "type": "settlement",
+                        "title": "Анталья",
+                        "short_title": "Анталья",
+                        "popular_title": "Анталья",
+                        "code": "c11511"
+                    },
+                    "departure_platform": "",
+                    "arrival_platform": "",
+                    "departure_terminal": "2",
+                    "arrival_terminal": "2",
+                    "stops": "",
+                    "duration": 12900.0,
+                    "start_date": "2026-05-01",
+                    "departure": "2026-05-01T00:05:00+02:00",
+                    "arrival": "2026-05-01T04:40:00+03:00"
+                },
+                {
+                    "is_transfer": true,
+                    "duration": 9000.0,
+                    "transfer_point": {
+                        "type": "settlement",
+                        "title": "Анталья",
+                        "short_title": "Анталья",
+                        "popular_title": "Анталья",
+                        "code": "c11511"
+                    },
+                    "transfer_from": {
+                        "type": "station",
+                        "title": "Анталья",
+                        "short_title": null,
+                        "popular_title": null,
+                        "code": "s9623581",
+                        "station_type": "airport",
+                        "station_type_name": "аэропорт",
+                        "transport_type": "plane"
+                    },
+                    "transfer_to": {
+                        "type": "station",
+                        "title": "Анталья",
+                        "short_title": null,
+                        "popular_title": null,
+                        "code": "s9623581",
+                        "station_type": "airport",
+                        "station_type_name": "аэропорт",
+                        "transport_type": "plane"
+                    }
+                },
+                {
+                    "thread": {
+                        "number": "A4 3052",
+                        "title": "Анталья — Краснодар",
+                        "short_title": "Анталья — Краснодар",
+                        "carrier": {
+                            "code": 60780,
+                            "title": "Азимут",
+                            "codes": {
+                                "sirena": "А4",
+                                "iata": "A4",
+                                "icao": null
+                            }
+                        },
+                        "vehicle": "Сухой Суперджет 100",
+                        "express_type": null,
+                        "transport_type": "plane",
+                        "transport_subtype": {
+                            "title": null,
+                            "code": null,
+                            "color": null
+                        },
+                        "uid": "A4-3052_260501_c60780_12"
+                    },
+                    "from": {
+                        "type": "settlement",
+                        "title": "Анталья",
+                        "short_title": "Анталья",
+                        "popular_title": "Анталья",
+                        "code": "c11511"
+                    },
+                    "to": {
+                        "type": "settlement",
+                        "title": "Краснодар",
+                        "short_title": "Краснодар",
+                        "popular_title": "Краснодар",
+                        "code": "c35"
+                    },
+                    "departure_platform": "",
+                    "arrival_platform": "",
+                    "departure_terminal": "2",
+                    "arrival_terminal": "2",
+                    "stops": "",
+                    "duration": 8400.0,
+                    "start_date": "2026-05-01",
+                    "departure": "2026-05-01T07:10:00+03:00",
+                    "arrival": "2026-05-01T09:30:00+03:00"
+                },
+                {
+                    "is_transfer": true,
+                    "duration": 14400.0,
+                    "transfer_point": {
+                        "type": "settlement",
+                        "title": "Краснодар",
+                        "short_title": "Краснодар",
+                        "popular_title": "Краснодар",
+                        "code": "c35"
+                    },
+                    "transfer_from": {
+                        "type": "station",
+                        "title": "Пашковский",
+                        "short_title": null,
+                        "popular_title": null,
+                        "code": "s9623123",
+                        "station_type": "airport",
+                        "station_type_name": "аэропорт",
+                        "transport_type": "plane"
+                    },
+                    "transfer_to": {
+                        "type": "station",
+                        "title": "Краснодар-1 (Центральный автовокзал)",
+                        "short_title": null,
+                        "popular_title": "Центральный автовокзал",
+                        "code": "s9623281",
+                        "station_type": "bus_station",
+                        "station_type_name": "автовокзал",
+                        "transport_type": "bus"
+                    }
+                },
+                {
+                    "thread": {
+                        "number": "",
+                        "title": "Краснодар — Евпатория",
+                        "short_title": "Краснодар — Евпатория",
+                        "express_type": null,
+                        "transport_type": "bus",
+                        "carrier": {
+                            "code": 65309,
+                            "title": "Краснодар ИП Селезень И.А.",
+                            "codes": {
+                                "sirena": null,
+                                "iata": null,
+                                "icao": null
+                            }
+                        },
+                        "uid": "empty_3_f9623281t9695196_691",
+                        "vehicle": "Мерседес_47м",
+                        "transport_subtype": {
+                            "title": null,
+                            "code": null,
+                            "color": null
+                        }
+                    },
+                    "stops": "",
+                    "from": {
+                        "type": "settlement",
+                        "title": "Краснодар",
+                        "short_title": "Краснодар",
+                        "popular_title": "Краснодар",
+                        "code": "c35"
+                    },
+                    "to": {
+                        "type": "settlement",
+                        "title": "Симферополь",
+                        "short_title": "Симферополь",
+                        "popular_title": "Симферополь",
+                        "code": "c146"
+                    },
+                    "departure_platform": "",
+                    "arrival_platform": "",
+                    "departure_terminal": null,
+                    "arrival_terminal": null,
+                    "duration": 33000.0,
+                    "departure": "2026-05-01T13:30:00+03:00",
+                    "arrival": "2026-05-01T22:40:00+03:00",
+                    "start_date": "2026-05-01"
+                }
+            ]
+        },
+        {
+            "departure_from": {
+                "type": "station",
+                "title": "Кельн-Бонн",
+                "short_title": "",
+                "popular_title": "",
+                "code": "s9600405",
+                "station_type": "airport",
+                "station_type_name": "аэропорт",
+                "transport_type": "plane"
+            },
+            "arrival_to": {
+                "type": "station",
+                "title": "Симферополь, Центральный автовокзал",
+                "short_title": "",
+                "popular_title": "Автовокзал Центральный",
+                "code": "s9654608",
+                "station_type": "bus_station",
+                "station_type_name": "автовокзал",
+                "transport_type": "bus"
+            },
+            "transport_types": [
+                "plane",
+                "plane",
+                "bus"
+            ],
+            "departure": "2026-05-01T01:55:00+02:00",
+            "arrival": "2026-05-02T04:20:00+03:00",
+            "transfers": [
+                {
+                    "type": "settlement",
+                    "title": "Стамбул",
+                    "short_title": "Стамбул",
+                    "popular_title": "Стамбул",
+                    "code": "c11508"
+                },
+                {
+                    "type": "settlement",
+                    "title": "Краснодар",
+                    "short_title": "Краснодар",
+                    "popular_title": "Краснодар",
+                    "code": "c35"
+                }
+            ],
+            "has_transfers": true,
+            "details": [
+                {
+                    "thread": {
+                        "number": "VF 92",
+                        "title": "Кельн — Стамбул",
+                        "short_title": "Кельн — Стамбул",
+                        "carrier": {
+                            "code": 60832,
+                            "title": "Ajet",
+                            "codes": {
+                                "sirena": null,
+                                "iata": "VF",
+                                "icao": "TKJ"
+                            }
+                        },
+                        "vehicle": "Boeing 737-800",
+                        "express_type": null,
+                        "transport_type": "plane",
+                        "transport_subtype": {
+                            "title": null,
+                            "code": null,
+                            "color": null
+                        },
+                        "uid": "VF-92_260501_c60832_12"
+                    },
+                    "from": {
+                        "type": "settlement",
+                        "title": "Кельн",
+                        "short_title": "Кельн",
+                        "popular_title": "Кельн",
+                        "code": "c98"
+                    },
+                    "to": {
+                        "type": "settlement",
+                        "title": "Стамбул",
+                        "short_title": "Стамбул",
+                        "popular_title": "Стамбул",
+                        "code": "c11508"
+                    },
+                    "departure_platform": "",
+                    "arrival_platform": "",
+                    "departure_terminal": "2",
+                    "arrival_terminal": "NULL",
+                    "stops": "",
+                    "duration": 11700.0,
+                    "start_date": "2026-05-01",
+                    "departure": "2026-05-01T01:55:00+02:00",
+                    "arrival": "2026-05-01T06:10:00+03:00"
+                },
+                {
+                    "is_transfer": true,
+                    "duration": 18900.0,
+                    "transfer_point": {
+                        "type": "settlement",
+                        "title": "Стамбул",
+                        "short_title": "Стамбул",
+                        "popular_title": "Стамбул",
+                        "code": "c11508"
+                    },
+                    "transfer_from": {
+                        "type": "station",
+                        "title": "Сабиха Гёкчен",
+                        "short_title": "",
+                        "popular_title": "",
+                        "code": "s9600420",
+                        "station_type": "airport",
+                        "station_type_name": "аэропорт",
+                        "transport_type": "plane"
+                    },
+                    "transfer_to": {
+                        "type": "station",
+                        "title": "Новый аэропорт Стамбул",
+                        "short_title": null,
+                        "popular_title": null,
+                        "code": "s9600421",
+                        "station_type": "airport",
+                        "station_type_name": "аэропорт",
+                        "transport_type": "plane"
+                    }
+                },
+                {
+                    "thread": {
+                        "number": "A4 3070",
+                        "title": "Стамбул — Краснодар",
+                        "short_title": "Стамбул — Краснодар",
+                        "carrier": {
+                            "code": 60780,
+                            "title": "Азимут",
+                            "codes": {
+                                "sirena": "А4",
+                                "iata": "A4",
+                                "icao": null
+                            }
+                        },
+                        "vehicle": "Сухой Суперджет 100",
+                        "express_type": null,
+                        "transport_type": "plane",
+                        "transport_subtype": {
+                            "title": null,
+                            "code": null,
+                            "color": null
+                        },
+                        "uid": "A4-3070_260501_c60780_12"
+                    },
+                    "from": {
+                        "type": "settlement",
+                        "title": "Стамбул",
+                        "short_title": "Стамбул",
+                        "popular_title": "Стамбул",
+                        "code": "c11508"
+                    },
+                    "to": {
+                        "type": "settlement",
+                        "title": "Краснодар",
+                        "short_title": "Краснодар",
+                        "popular_title": "Краснодар",
+                        "code": "c35"
+                    },
+                    "departure_platform": "",
+                    "arrival_platform": "",
+                    "departure_terminal": "",
+                    "arrival_terminal": "2",
+                    "stops": "",
+                    "duration": 9300.0,
+                    "start_date": "2026-05-01",
+                    "departure": "2026-05-01T11:25:00+03:00",
+                    "arrival": "2026-05-01T14:00:00+03:00"
+                },
+                {
+                    "is_transfer": true,
+                    "duration": 28800.0,
+                    "transfer_point": {
+                        "type": "settlement",
+                        "title": "Краснодар",
+                        "short_title": "Краснодар",
+                        "popular_title": "Краснодар",
+                        "code": "c35"
+                    },
+                    "transfer_from": {
+                        "type": "station",
+                        "title": "Пашковский",
+                        "short_title": null,
+                        "popular_title": null,
+                        "code": "s9623123",
+                        "station_type": "airport",
+                        "station_type_name": "аэропорт",
+                        "transport_type": "plane"
+                    },
+                    "transfer_to": {
+                        "type": "station",
+                        "title": "Краснодар-1 (Центральный автовокзал)",
+                        "short_title": null,
+                        "popular_title": "Центральный автовокзал",
+                        "code": "s9623281",
+                        "station_type": "bus_station",
+                        "station_type_name": "автовокзал",
+                        "transport_type": "bus"
+                    }
+                },
+                {
+                    "thread": {
+                        "number": "",
+                        "title": "Краснодар — Ялта",
+                        "short_title": "Краснодар — Ялта",
+                        "express_type": null,
+                        "transport_type": "bus",
+                        "carrier": {
+                            "code": 65379,
+                            "title": "Краснодар ООО \"Кубаньавто\"",
+                            "codes": {
+                                "sirena": null,
+                                "iata": null,
+                                "icao": null
+                            }
+                        },
+                        "uid": "empty_2_f9623281t9692613_691",
+                        "vehicle": "Сетра_46м",
+                        "transport_subtype": {
+                            "title": null,
+                            "code": null,
+                            "color": null
+                        }
+                    },
+                    "stops": "",
+                    "from": {
+                        "type": "settlement",
+                        "title": "Краснодар",
+                        "short_title": "Краснодар",
+                        "popular_title": "Краснодар",
+                        "code": "c35"
+                    },
+                    "to": {
+                        "type": "settlement",
+                        "title": "Симферополь",
+                        "short_title": "Симферополь",
+                        "popular_title": "Симферополь",
+                        "code": "c146"
+                    },
+                    "departure_platform": "",
+                    "arrival_platform": "",
+                    "departure_terminal": null,
+                    "arrival_terminal": null,
+                    "duration": 22800.0,
+                    "departure": "2026-05-01T22:00:00+03:00",
+                    "arrival": "2026-05-02T04:20:00+03:00",
+                    "start_date": "2026-05-01"
+                }
+            ]
+        },
+        {
+            "departure_from": {
+                "type": "station",
+                "title": "Кельн-Бонн",
+                "short_title": "",
+                "popular_title": "",
+                "code": "s9600405",
+                "station_type": "airport",
+                "station_type_name": "аэропорт",
+                "transport_type": "plane"
+            },
+            "arrival_to": {
+                "type": "station",
+                "title": "Симферополь-Пасс.",
+                "short_title": "",
+                "popular_title": "",
+                "code": "s9616627",
+                "station_type": "train_station",
+                "station_type_name": "вокзал",
+                "transport_type": "train"
+            },
+            "transport_types": [
+                "plane",
+                "plane",
+                "train"
+            ],
+            "departure": "2026-05-01T01:30:00+02:00",
+            "arrival": "2026-05-02T07:55:00+03:00",
+            "transfers": [
+                {
+                    "type": "settlement",
+                    "title": "Анталья",
+                    "short_title": "Анталья",
+                    "popular_title": "Анталья",
+                    "code": "c11511"
+                },
+                {
+                    "type": "settlement",
+                    "title": "Сочи",
+                    "short_title": "Сочи",
+                    "popular_title": "Сочи",
+                    "code": "c239"
+                }
+            ],
+            "has_transfers": true,
+            "details": [
+                {
+                    "thread": {
+                        "number": "XQ 119",
+                        "title": "Кельн — Анталья",
+                        "short_title": "Кельн — Анталья",
+                        "carrier": {
+                            "code": 334,
+                            "title": "SunExpress",
+                            "codes": {
+                                "sirena": null,
+                                "iata": "XQ",
+                                "icao": "SXS"
+                            }
+                        },
+                        "vehicle": "Boeing 737-800",
+                        "express_type": null,
+                        "transport_type": "plane",
+                        "transport_subtype": {
+                            "title": null,
+                            "code": null,
+                            "color": null
+                        },
+                        "uid": "XQ-119_260501_c334_12"
+                    },
+                    "from": {
+                        "type": "settlement",
+                        "title": "Кельн",
+                        "short_title": "Кельн",
+                        "popular_title": "Кельн",
+                        "code": "c98"
+                    },
+                    "to": {
+                        "type": "settlement",
+                        "title": "Анталья",
+                        "short_title": "Анталья",
+                        "popular_title": "Анталья",
+                        "code": "c11511"
+                    },
+                    "departure_platform": "",
+                    "arrival_platform": "",
+                    "departure_terminal": "2",
+                    "arrival_terminal": "2",
+                    "stops": "",
+                    "duration": 12900.0,
+                    "start_date": "2026-05-01",
+                    "departure": "2026-05-01T01:30:00+02:00",
+                    "arrival": "2026-05-01T06:05:00+03:00"
+                },
+                {
+                    "is_transfer": true,
+                    "duration": 10500.0,
+                    "transfer_point": {
+                        "type": "settlement",
+                        "title": "Анталья",
+                        "short_title": "Анталья",
+                        "popular_title": "Анталья",
+                        "code": "c11511"
+                    },
+                    "transfer_from": {
+                        "type": "station",
+                        "title": "Анталья",
+                        "short_title": null,
+                        "popular_title": null,
+                        "code": "s9623581",
+                        "station_type": "airport",
+                        "station_type_name": "аэропорт",
+                        "transport_type": "plane"
+                    },
+                    "transfer_to": {
+                        "type": "station",
+                        "title": "Анталья",
+                        "short_title": null,
+                        "popular_title": null,
+                        "code": "s9623581",
+                        "station_type": "airport",
+                        "station_type_name": "аэропорт",
+                        "transport_type": "plane"
+                    }
+                },
+                {
+                    "thread": {
+                        "number": "IO 1826",
+                        "title": "Анталья — Сочи",
+                        "short_title": "Анталья — Сочи",
+                        "carrier": {
+                            "code": 105,
+                            "title": "ИрАэро",
+                            "codes": {
+                                "sirena": "РД",
+                                "iata": "IO",
+                                "icao": null
+                            }
+                        },
+                        "vehicle": "Сухой Суперджет 100",
+                        "express_type": null,
+                        "transport_type": "plane",
+                        "transport_subtype": {
+                            "title": null,
+                            "code": null,
+                            "color": null
+                        },
+                        "uid": "IO-1826_260501_c105_12"
+                    },
+                    "from": {
+                        "type": "settlement",
+                        "title": "Анталья",
+                        "short_title": "Анталья",
+                        "popular_title": "Анталья",
+                        "code": "c11511"
+                    },
+                    "to": {
+                        "type": "settlement",
+                        "title": "Сочи",
+                        "short_title": "Сочи",
+                        "popular_title": "Сочи",
+                        "code": "c239"
+                    },
+                    "departure_platform": "",
+                    "arrival_platform": "",
+                    "departure_terminal": "2",
+                    "arrival_terminal": "",
+                    "stops": "",
+                    "duration": 7200.0,
+                    "start_date": "2026-05-01",
+                    "departure": "2026-05-01T09:00:00+03:00",
+                    "arrival": "2026-05-01T11:00:00+03:00"
+                },
+                {
+                    "is_transfer": true,
+                    "duration": 11220.0,
+                    "transfer_point": {
+                        "type": "settlement",
+                        "title": "Сочи",
+                        "short_title": "Сочи",
+                        "popular_title": "Сочи",
+                        "code": "c239"
+                    },
+                    "transfer_from": {
+                        "type": "station",
+                        "title": "Сочи",
+                        "short_title": null,
+                        "popular_title": null,
+                        "code": "s9623547",
+                        "station_type": "airport",
+                        "station_type_name": "аэропорт",
+                        "transport_type": "plane"
+                    },
+                    "transfer_to": {
+                        "type": "station",
+                        "title": "Сочи",
+                        "short_title": "",
+                        "popular_title": "",
+                        "code": "s9613034",
+                        "station_type": "station",
+                        "station_type_name": "станция",
+                        "transport_type": "train"
+                    }
+                },
+                {
+                    "thread": {
+                        "number": "316Э",
+                        "title": "Адлер — Симферополь",
+                        "short_title": "Адлер — Симферополь",
+                        "express_type": null,
+                        "transport_type": "train",
+                        "carrier": {
+                            "code": 63438,
+                            "title": "Гранд Сервис Экспресс (Таврия)",
+                            "codes": {
+                                "sirena": null,
+                                "iata": null,
+                                "icao": null
+                            }
+                        },
+                        "uid": "316YE_7_2",
+                        "vehicle": null,
+                        "transport_subtype": {
+                            "title": null,
+                            "code": null,
+                            "color": null
+                        }
+                    },
+                    "stops": "",
+                    "from": {
+                        "type": "settlement",
+                        "title": "Сочи",
+                        "short_title": "Сочи",
+                        "popular_title": "Сочи",
+                        "code": "c239"
+                    },
+                    "to": {
+                        "type": "settlement",
+                        "title": "Симферополь",
+                        "short_title": "Симферополь",
+                        "popular_title": "Симферополь",
+                        "code": "c146"
+                    },
+                    "departure_platform": "",
+                    "arrival_platform": "",
+                    "departure_terminal": null,
+                    "arrival_terminal": null,
+                    "duration": 64080.0,
+                    "departure": "2026-05-01T14:07:00+03:00",
+                    "arrival": "2026-05-02T07:55:00+03:00",
+                    "start_date": "2026-05-01"
+                }
+            ]
+        },
+        {
+            "departure_from": {
+                "type": "station",
+                "title": "Кельн-Бонн",
+                "short_title": "",
+                "popular_title": "",
+                "code": "s9600405",
+                "station_type": "airport",
+                "station_type_name": "аэропорт",
+                "transport_type": "plane"
+            },
+            "arrival_to": {
+                "type": "station",
+                "title": "Симферополь-Пасс.",
+                "short_title": "",
+                "popular_title": "",
+                "code": "s9616627",
+                "station_type": "train_station",
+                "station_type_name": "вокзал",
+                "transport_type": "train"
+            },
+            "transport_types": [
+                "plane",
+                "plane",
+                "train"
+            ],
+            "departure": "2026-05-01T01:55:00+02:00",
+            "arrival": "2026-05-02T08:50:00+03:00",
+            "transfers": [
+                {
+                    "type": "settlement",
+                    "title": "Стамбул",
+                    "short_title": "Стамбул",
+                    "popular_title": "Стамбул",
+                    "code": "c11508"
+                },
+                {
+                    "type": "settlement",
+                    "title": "Краснодар",
+                    "short_title": "Краснодар",
+                    "popular_title": "Краснодар",
+                    "code": "c35"
+                }
+            ],
+            "has_transfers": true,
+            "details": [
+                {
+                    "thread": {
+                        "number": "VF 92",
+                        "title": "Кельн — Стамбул",
+                        "short_title": "Кельн — Стамбул",
+                        "carrier": {
+                            "code": 60832,
+                            "title": "Ajet",
+                            "codes": {
+                                "sirena": null,
+                                "iata": "VF",
+                                "icao": "TKJ"
+                            }
+                        },
+                        "vehicle": "Boeing 737-800",
+                        "express_type": null,
+                        "transport_type": "plane",
+                        "transport_subtype": {
+                            "title": null,
+                            "code": null,
+                            "color": null
+                        },
+                        "uid": "VF-92_260501_c60832_12"
+                    },
+                    "from": {
+                        "type": "settlement",
+                        "title": "Кельн",
+                        "short_title": "Кельн",
+                        "popular_title": "Кельн",
+                        "code": "c98"
+                    },
+                    "to": {
+                        "type": "settlement",
+                        "title": "Стамбул",
+                        "short_title": "Стамбул",
+                        "popular_title": "Стамбул",
+                        "code": "c11508"
+                    },
+                    "departure_platform": "",
+                    "arrival_platform": "",
+                    "departure_terminal": "2",
+                    "arrival_terminal": "NULL",
+                    "stops": "",
+                    "duration": 11700.0,
+                    "start_date": "2026-05-01",
+                    "departure": "2026-05-01T01:55:00+02:00",
+                    "arrival": "2026-05-01T06:10:00+03:00"
+                },
+                {
+                    "is_transfer": true,
+                    "duration": 18900.0,
+                    "transfer_point": {
+                        "type": "settlement",
+                        "title": "Стамбул",
+                        "short_title": "Стамбул",
+                        "popular_title": "Стамбул",
+                        "code": "c11508"
+                    },
+                    "transfer_from": {
+                        "type": "station",
+                        "title": "Сабиха Гёкчен",
+                        "short_title": "",
+                        "popular_title": "",
+                        "code": "s9600420",
+                        "station_type": "airport",
+                        "station_type_name": "аэропорт",
+                        "transport_type": "plane"
+                    },
+                    "transfer_to": {
+                        "type": "station",
+                        "title": "Новый аэропорт Стамбул",
+                        "short_title": null,
+                        "popular_title": null,
+                        "code": "s9600421",
+                        "station_type": "airport",
+                        "station_type_name": "аэропорт",
+                        "transport_type": "plane"
+                    }
+                },
+                {
+                    "thread": {
+                        "number": "A4 3070",
+                        "title": "Стамбул — Краснодар",
+                        "short_title": "Стамбул — Краснодар",
+                        "carrier": {
+                            "code": 60780,
+                            "title": "Азимут",
+                            "codes": {
+                                "sirena": "А4",
+                                "iata": "A4",
+                                "icao": null
+                            }
+                        },
+                        "vehicle": "Сухой Суперджет 100",
+                        "express_type": null,
+                        "transport_type": "plane",
+                        "transport_subtype": {
+                            "title": null,
+                            "code": null,
+                            "color": null
+                        },
+                        "uid": "A4-3070_260501_c60780_12"
+                    },
+                    "from": {
+                        "type": "settlement",
+                        "title": "Стамбул",
+                        "short_title": "Стамбул",
+                        "popular_title": "Стамбул",
+                        "code": "c11508"
+                    },
+                    "to": {
+                        "type": "settlement",
+                        "title": "Краснодар",
+                        "short_title": "Краснодар",
+                        "popular_title": "Краснодар",
+                        "code": "c35"
+                    },
+                    "departure_platform": "",
+                    "arrival_platform": "",
+                    "departure_terminal": "",
+                    "arrival_terminal": "2",
+                    "stops": "",
+                    "duration": 9300.0,
+                    "start_date": "2026-05-01",
+                    "departure": "2026-05-01T11:25:00+03:00",
+                    "arrival": "2026-05-01T14:00:00+03:00"
+                },
+                {
+                    "is_transfer": true,
+                    "duration": 28680.0,
+                    "transfer_point": {
+                        "type": "settlement",
+                        "title": "Краснодар",
+                        "short_title": "Краснодар",
+                        "popular_title": "Краснодар",
+                        "code": "c35"
+                    },
+                    "transfer_from": {
+                        "type": "station",
+                        "title": "Пашковский",
+                        "short_title": null,
+                        "popular_title": null,
+                        "code": "s9623123",
+                        "station_type": "airport",
+                        "station_type_name": "аэропорт",
+                        "transport_type": "plane"
+                    },
+                    "transfer_to": {
+                        "type": "station",
+                        "title": "Краснодар-1",
+                        "short_title": null,
+                        "popular_title": null,
+                        "code": "s9613602",
+                        "station_type": "station",
+                        "station_type_name": "станция",
+                        "transport_type": "train"
+                    }
+                },
+                {
+                    "thread": {
+                        "number": "025С",
+                        "title": "Минеральные Воды — Симферополь",
+                        "short_title": "Минеральные Воды — Симферополь",
+                        "express_type": null,
+                        "transport_type": "train",
+                        "carrier": {
+                            "code": 63438,
+                            "title": "Гранд Сервис Экспресс (Таврия)",
+                            "codes": {
+                                "sirena": null,
+                                "iata": null,
+                                "icao": null
+                            }
+                        },
+                        "uid": "025S_0_2",
+                        "vehicle": null,
+                        "transport_subtype": {
+                            "title": null,
+                            "code": null,
+                            "color": null
+                        }
+                    },
+                    "stops": "",
+                    "from": {
+                        "type": "settlement",
+                        "title": "Краснодар",
+                        "short_title": "Краснодар",
+                        "popular_title": "Краснодар",
+                        "code": "c35"
+                    },
+                    "to": {
+                        "type": "settlement",
+                        "title": "Симферополь",
+                        "short_title": "Симферополь",
+                        "popular_title": "Симферополь",
+                        "code": "c146"
+                    },
+                    "departure_platform": "",
+                    "arrival_platform": "",
+                    "departure_terminal": null,
+                    "arrival_terminal": null,
+                    "duration": 39120.0,
+                    "departure": "2026-05-01T21:58:00+03:00",
+                    "arrival": "2026-05-02T08:50:00+03:00",
+                    "start_date": "2026-05-01"
+                }
+            ]
+        },
+        {
+            "departure_from": {
+                "type": "station",
+                "title": "Кельн-Бонн",
+                "short_title": "",
+                "popular_title": "",
+                "code": "s9600405",
+                "station_type": "airport",
+                "station_type_name": "аэропорт",
+                "transport_type": "plane"
+            },
+            "arrival_to": {
+                "type": "station",
+                "title": "Симферополь-Пасс.",
+                "short_title": "",
+                "popular_title": "",
+                "code": "s9616627",
+                "station_type": "train_station",
+                "station_type_name": "вокзал",
+                "transport_type": "train"
+            },
+            "transport_types": [
+                "plane",
+                "plane",
+                "train"
+            ],
+            "departure": "2026-05-01T01:55:00+02:00",
+            "arrival": "2026-05-03T05:30:00+03:00",
+            "transfers": [
+                {
+                    "type": "settlement",
+                    "title": "Стамбул",
+                    "short_title": "Стамбул",
+                    "popular_title": "Стамбул",
+                    "code": "c11508"
+                },
+                {
+                    "type": "settlement",
+                    "title": "Санкт-Петербург",
+                    "short_title": "Санкт-Петербург",
+                    "popular_title": "Санкт-Петербург",
+                    "code": "c2"
+                }
+            ],
+            "has_transfers": true,
+            "details": [
+                {
+                    "thread": {
+                        "number": "VF 92",
+                        "title": "Кельн — Стамбул",
+                        "short_title": "Кельн — Стамбул",
+                        "carrier": {
+                            "code": 60832,
+                            "title": "Ajet",
+                            "codes": {
+                                "sirena": null,
+                                "iata": "VF",
+                                "icao": "TKJ"
+                            }
+                        },
+                        "vehicle": "Boeing 737-800",
+                        "express_type": null,
+                        "transport_type": "plane",
+                        "transport_subtype": {
+                            "title": null,
+                            "code": null,
+                            "color": null
+                        },
+                        "uid": "VF-92_260501_c60832_12"
+                    },
+                    "from": {
+                        "type": "settlement",
+                        "title": "Кельн",
+                        "short_title": "Кельн",
+                        "popular_title": "Кельн",
+                        "code": "c98"
+                    },
+                    "to": {
+                        "type": "settlement",
+                        "title": "Стамбул",
+                        "short_title": "Стамбул",
+                        "popular_title": "Стамбул",
+                        "code": "c11508"
+                    },
+                    "departure_platform": "",
+                    "arrival_platform": "",
+                    "departure_terminal": "2",
+                    "arrival_terminal": "NULL",
+                    "stops": "",
+                    "duration": 11700.0,
+                    "start_date": "2026-05-01",
+                    "departure": "2026-05-01T01:55:00+02:00",
+                    "arrival": "2026-05-01T06:10:00+03:00"
+                },
+                {
+                    "is_transfer": true,
+                    "duration": 14400.0,
+                    "transfer_point": {
+                        "type": "settlement",
+                        "title": "Стамбул",
+                        "short_title": "Стамбул",
+                        "popular_title": "Стамбул",
+                        "code": "c11508"
+                    },
+                    "transfer_from": {
+                        "type": "station",
+                        "title": "Сабиха Гёкчен",
+                        "short_title": "",
+                        "popular_title": "",
+                        "code": "s9600420",
+                        "station_type": "airport",
+                        "station_type_name": "аэропорт",
+                        "transport_type": "plane"
+                    },
+                    "transfer_to": {
+                        "type": "station",
+                        "title": "Сабиха Гёкчен",
+                        "short_title": "",
+                        "popular_title": "",
+                        "code": "s9600420",
+                        "station_type": "airport",
+                        "station_type_name": "аэропорт",
+                        "transport_type": "plane"
+                    }
+                },
+                {
+                    "thread": {
+                        "number": "PC 396",
+                        "title": "Стамбул — Санкт-Петербург",
+                        "short_title": "Стамбул — Санкт-Петербург",
+                        "carrier": {
+                            "code": 845,
+                            "title": "Pegasus",
+                            "codes": {
+                                "sirena": null,
+                                "iata": "PC",
+                                "icao": null
+                            }
+                        },
+                        "vehicle": "Airbus А321",
+                        "express_type": null,
+                        "transport_type": "plane",
+                        "transport_subtype": {
+                            "title": null,
+                            "code": null,
+                            "color": null
+                        },
+                        "uid": "PC-396_260501_c845_12"
+                    },
+                    "from": {
+                        "type": "settlement",
+                        "title": "Стамбул",
+                        "short_title": "Стамбул",
+                        "popular_title": "Стамбул",
+                        "code": "c11508"
+                    },
+                    "to": {
+                        "type": "settlement",
+                        "title": "Санкт-Петербург",
+                        "short_title": "Санкт-Петербург",
+                        "popular_title": "Санкт-Петербург",
+                        "code": "c2"
+                    },
+                    "departure_platform": "",
+                    "arrival_platform": "",
+                    "departure_terminal": "NULL",
+                    "arrival_terminal": "1",
+                    "stops": "",
+                    "duration": 13500.0,
+                    "start_date": "2026-05-01",
+                    "departure": "2026-05-01T10:10:00+03:00",
+                    "arrival": "2026-05-01T13:55:00+03:00"
+                },
+                {
+                    "is_transfer": true,
+                    "duration": 12000.0,
+                    "transfer_point": {
+                        "type": "settlement",
+                        "title": "Санкт-Петербург",
+                        "short_title": "Санкт-Петербург",
+                        "popular_title": "Санкт-Петербург",
+                        "code": "c2"
+                    },
+                    "transfer_from": {
+                        "type": "station",
+                        "title": "Пулково",
+                        "short_title": "",
+                        "popular_title": "",
+                        "code": "s9600366",
+                        "station_type": "airport",
+                        "station_type_name": "аэропорт",
+                        "transport_type": "plane"
+                    },
+                    "transfer_to": {
+                        "type": "station",
+                        "title": "Санкт-Петербург (Московский вокзал)",
+                        "short_title": "СПб-Моск.",
+                        "popular_title": "Московский вокзал",
+                        "code": "s9602494",
+                        "station_type": "train_station",
+                        "station_type_name": "вокзал",
+                        "transport_type": "train"
+                    }
+                },
+                {
+                    "thread": {
+                        "number": "007А",
+                        "title": "Санкт-Петербург — Севастополь",
+                        "short_title": "Санкт-Петербург — Севастополь",
+                        "express_type": null,
+                        "transport_type": "train",
+                        "carrier": {
+                            "code": 63438,
+                            "title": "Гранд Сервис Экспресс (Таврия)",
+                            "codes": {
+                                "sirena": null,
+                                "iata": null,
+                                "icao": null
+                            }
+                        },
+                        "uid": "007A_12_2",
+                        "vehicle": null,
+                        "transport_subtype": {
+                            "title": null,
+                            "code": null,
+                            "color": null
+                        }
+                    },
+                    "stops": "",
+                    "from": {
+                        "type": "settlement",
+                        "title": "Санкт-Петербург",
+                        "short_title": "Санкт-Петербург",
+                        "popular_title": "Санкт-Петербург",
+                        "code": "c2"
+                    },
+                    "to": {
+                        "type": "settlement",
+                        "title": "Симферополь",
+                        "short_title": "Симферополь",
+                        "popular_title": "Симферополь",
+                        "code": "c146"
+                    },
+                    "departure_platform": "",
+                    "arrival_platform": "",
+                    "departure_terminal": null,
+                    "arrival_terminal": null,
+                    "duration": 130500.0,
+                    "departure": "2026-05-01T17:15:00+03:00",
+                    "arrival": "2026-05-03T05:30:00+03:00",
+                    "start_date": "2026-05-01"
+                }
+            ]
+        },
+        {
+            "departure_from": {
+                "type": "station",
+                "title": "Кельн-Бонн",
+                "short_title": "",
+                "popular_title": "",
+                "code": "s9600405",
+                "station_type": "airport",
+                "station_type_name": "аэропорт",
+                "transport_type": "plane"
+            },
+            "arrival_to": {
+                "type": "station",
+                "title": "Симферополь-Пасс.",
+                "short_title": "",
+                "popular_title": "",
+                "code": "s9616627",
+                "station_type": "train_station",
+                "station_type_name": "вокзал",
+                "transport_type": "train"
+            },
+            "transport_types": [
+                "plane",
+                "plane",
+                "bus",
+                "train"
+            ],
+            "departure": "2026-05-01T00:05:00+02:00",
+            "arrival": "2026-05-02T05:30:00+03:00",
+            "transfers": [
+                {
+                    "type": "settlement",
+                    "title": "Анталья",
+                    "short_title": "Анталья",
+                    "popular_title": "Анталья",
+                    "code": "c11511"
+                },
+                {
+                    "type": "settlement",
+                    "title": "Краснодар",
+                    "short_title": "Краснодар",
+                    "popular_title": "Краснодар",
+                    "code": "c35"
+                },
+                {
+                    "type": "settlement",
+                    "title": "Тимашевск",
+                    "short_title": "Тимашевск",
+                    "popular_title": "Тимашевск",
+                    "code": "c21141"
+                }
+            ],
+            "has_transfers": true,
+            "details": [
+                {
+                    "thread": {
+                        "number": "4M 402",
+                        "title": "Кельн — Анталья",
+                        "short_title": "Кельн — Анталья",
+                        "carrier": {
+                            "code": 1052,
+                            "title": "LATAM Argentina",
+                            "codes": {
+                                "sirena": null,
+                                "iata": "4M",
+                                "icao": "DSM"
+                            }
+                        },
+                        "vehicle": "Boeing 757-300",
+                        "express_type": null,
+                        "transport_type": "plane",
+                        "transport_subtype": {
+                            "title": null,
+                            "code": null,
+                            "color": null
+                        },
+                        "uid": "4M-402_260501_c1052_12"
+                    },
+                    "from": {
+                        "type": "settlement",
+                        "title": "Кельн",
+                        "short_title": "Кельн",
+                        "popular_title": "Кельн",
+                        "code": "c98"
+                    },
+                    "to": {
+                        "type": "settlement",
+                        "title": "Анталья",
+                        "short_title": "Анталья",
+                        "popular_title": "Анталья",
+                        "code": "c11511"
+                    },
+                    "departure_platform": "",
+                    "arrival_platform": "",
+                    "departure_terminal": "2",
+                    "arrival_terminal": "2",
+                    "stops": "",
+                    "duration": 12900.0,
+                    "start_date": "2026-05-01",
+                    "departure": "2026-05-01T00:05:00+02:00",
+                    "arrival": "2026-05-01T04:40:00+03:00"
+                },
+                {
+                    "is_transfer": true,
+                    "duration": 9000.0,
+                    "transfer_point": {
+                        "type": "settlement",
+                        "title": "Анталья",
+                        "short_title": "Анталья",
+                        "popular_title": "Анталья",
+                        "code": "c11511"
+                    },
+                    "transfer_from": {
+                        "type": "station",
+                        "title": "Анталья",
+                        "short_title": null,
+                        "popular_title": null,
+                        "code": "s9623581",
+                        "station_type": "airport",
+                        "station_type_name": "аэропорт",
+                        "transport_type": "plane"
+                    },
+                    "transfer_to": {
+                        "type": "station",
+                        "title": "Анталья",
+                        "short_title": null,
+                        "popular_title": null,
+                        "code": "s9623581",
+                        "station_type": "airport",
+                        "station_type_name": "аэропорт",
+                        "transport_type": "plane"
+                    }
+                },
+                {
+                    "thread": {
+                        "number": "A4 3052",
+                        "title": "Анталья — Краснодар",
+                        "short_title": "Анталья — Краснодар",
+                        "carrier": {
+                            "code": 60780,
+                            "title": "Азимут",
+                            "codes": {
+                                "sirena": "А4",
+                                "iata": "A4",
+                                "icao": null
+                            }
+                        },
+                        "vehicle": "Сухой Суперджет 100",
+                        "express_type": null,
+                        "transport_type": "plane",
+                        "transport_subtype": {
+                            "title": null,
+                            "code": null,
+                            "color": null
+                        },
+                        "uid": "A4-3052_260501_c60780_12"
+                    },
+                    "from": {
+                        "type": "settlement",
+                        "title": "Анталья",
+                        "short_title": "Анталья",
+                        "popular_title": "Анталья",
+                        "code": "c11511"
+                    },
+                    "to": {
+                        "type": "settlement",
+                        "title": "Краснодар",
+                        "short_title": "Краснодар",
+                        "popular_title": "Краснодар",
+                        "code": "c35"
+                    },
+                    "departure_platform": "",
+                    "arrival_platform": "",
+                    "departure_terminal": "2",
+                    "arrival_terminal": "2",
+                    "stops": "",
+                    "duration": 8400.0,
+                    "start_date": "2026-05-01",
+                    "departure": "2026-05-01T07:10:00+03:00",
+                    "arrival": "2026-05-01T09:30:00+03:00"
+                },
+                {
+                    "is_transfer": true,
+                    "duration": 11700.0,
+                    "transfer_point": {
+                        "type": "settlement",
+                        "title": "Краснодар",
+                        "short_title": "Краснодар",
+                        "popular_title": "Краснодар",
+                        "code": "c35"
+                    },
+                    "transfer_from": {
+                        "type": "station",
+                        "title": "Пашковский",
+                        "short_title": null,
+                        "popular_title": null,
+                        "code": "s9623123",
+                        "station_type": "airport",
+                        "station_type_name": "аэропорт",
+                        "transport_type": "plane"
+                    },
+                    "transfer_to": {
+                        "type": "station",
+                        "title": "Краснодар-1 (Центральный автовокзал)",
+                        "short_title": null,
+                        "popular_title": "Центральный автовокзал",
+                        "code": "s9623281",
+                        "station_type": "bus_station",
+                        "station_type_name": "автовокзал",
+                        "transport_type": "bus"
+                    }
+                },
+                {
+                    "thread": {
+                        "number": "",
+                        "title": "Геленджик — Ейск",
+                        "short_title": "Геленджик — Ейск",
+                        "express_type": null,
+                        "transport_type": "bus",
+                        "carrier": {
+                            "code": 65338,
+                            "title": "Краснодар ООО\"Евротранс\"",
+                            "codes": {
+                                "sirena": null,
+                                "iata": null,
+                                "icao": null
+                            }
+                        },
+                        "uid": "empty_0_f9637766t9654637_691",
+                        "vehicle": "Голаз_45м",
+                        "transport_subtype": {
+                            "title": null,
+                            "code": null,
+                            "color": null
+                        }
+                    },
+                    "stops": "",
+                    "from": {
+                        "type": "settlement",
+                        "title": "Краснодар",
+                        "short_title": "Краснодар",
+                        "popular_title": "Краснодар",
+                        "code": "c35"
+                    },
+                    "to": {
+                        "type": "settlement",
+                        "title": "Тимашевск",
+                        "short_title": "Тимашевск",
+                        "popular_title": "Тимашевск",
+                        "code": "c21141"
+                    },
+                    "departure_platform": "",
+                    "arrival_platform": "",
+                    "departure_terminal": null,
+                    "arrival_terminal": null,
+                    "duration": 8100.0,
+                    "departure": "2026-05-01T12:45:00+03:00",
+                    "arrival": "2026-05-01T15:00:00+03:00",
+                    "start_date": "2026-05-01"
+                },
+                {
+                    "is_transfer": true,
+                    "duration": 18480.0,
+                    "transfer_point": {
+                        "type": "settlement",
+                        "title": "Тимашевск",
+                        "short_title": "Тимашевск",
+                        "popular_title": "Тимашевск",
+                        "code": "c21141"
+                    },
+                    "transfer_from": {
+                        "type": "station",
+                        "title": "Тимашевск",
+                        "short_title": "",
+                        "popular_title": "",
+                        "code": "s9637759",
+                        "station_type": "bus_station",
+                        "station_type_name": "автовокзал",
+                        "transport_type": "bus"
+                    },
+                    "transfer_to": {
+                        "type": "station",
+                        "title": "Тимашевская-1",
+                        "short_title": "",
+                        "popular_title": "",
+                        "code": "s9613181",
+                        "station_type": "station",
+                        "station_type_name": "станция",
+                        "transport_type": "train"
+                    }
+                },
+                {
+                    "thread": {
+                        "number": "007А",
+                        "title": "Санкт-Петербург — Севастополь",
+                        "short_title": "Санкт-Петербург — Севастополь",
+                        "express_type": null,
+                        "transport_type": "train",
+                        "carrier": {
+                            "code": 63438,
+                            "title": "Гранд Сервис Экспресс (Таврия)",
+                            "codes": {
+                                "sirena": null,
+                                "iata": null,
+                                "icao": null
+                            }
+                        },
+                        "uid": "007A_12_2",
+                        "vehicle": null,
+                        "transport_subtype": {
+                            "title": null,
+                            "code": null,
+                            "color": null
+                        }
+                    },
+                    "stops": "",
+                    "from": {
+                        "type": "settlement",
+                        "title": "Тимашевск",
+                        "short_title": "Тимашевск",
+                        "popular_title": "Тимашевск",
+                        "code": "c21141"
+                    },
+                    "to": {
+                        "type": "settlement",
+                        "title": "Симферополь",
+                        "short_title": "Симферополь",
+                        "popular_title": "Симферополь",
+                        "code": "c146"
+                    },
+                    "departure_platform": "",
+                    "arrival_platform": "",
+                    "departure_terminal": null,
+                    "arrival_terminal": null,
+                    "duration": 33720.0,
+                    "departure": "2026-05-01T20:08:00+03:00",
+                    "arrival": "2026-05-02T05:30:00+03:00",
+                    "start_date": "2026-04-30"
+                }
+            ]
+        }
+    ],
+    "interval_segments": [],
+    "pagination": {
+        "total": 6,
+        "limit": 100,
+        "offset": 0
+    }
+}

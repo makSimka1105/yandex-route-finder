@@ -1,6 +1,12 @@
 # Prerequisites
 *.d
-
+build
+compile_commands.json
+.clangd
+.clang-format
+.vscode
+.cache
+Makefile
 # Compiled Object files
 *.slo
 *.lo

@@ -1,0 +1,2203 @@
+{
+    "search": {
+        "from": {
+            "type": "settlement",
+            "title": "Санкт-Петербург",
+            "short_title": "Санкт-Петербург",
+            "popular_title": "Санкт-Петербург",
+            "code": "c2"
+        },
+        "to": {
+            "type": "settlement",
+            "title": "Симферополь",
+            "short_title": "Симферополь",
+            "popular_title": "Симферополь",
+            "code": "c146"
+        },
+        "date": null
+    },
+    "segments": [
+        {
+            "thread": {
+                "number": "077А",
+                "title": "Санкт-Петербург — Симферополь",
+                "short_title": "Санкт-Петербург — Симферополь",
+                "express_type": null,
+                "transport_type": "train",
+                "carrier": {
+                    "code": 63438,
+                    "title": "Гранд Сервис Экспресс (Таврия)",
+                    "codes": {
+                        "sirena": null,
+                        "iata": null,
+                        "icao": null
+                    },
+                    "address": null,
+                    "url": "http://grandtrain.ru",
+                    "email": null,
+                    "contacts": "",
+                    "phone": "",
+                    "logo": null,
+                    "logo_svg": null
+                },
+                "uid": "077A_9_2",
+                "vehicle": null,
+                "transport_subtype": {
+                    "title": null,
+                    "code": null,
+                    "color": null
+                },
+                "thread_method_link": "api.rasp.yandex.net/v3/thread/?date=2026-03-11&uid=077A_9_2"
+            },
+            "stops": "",
+            "from": {
+                "type": "station",
+                "title": "Санкт-Петербург (Московский вокзал)",
+                "short_title": "СПб-Моск.",
+                "popular_title": "Московский вокзал",
+                "code": "s9602494",
+                "station_type": "train_station",
+                "station_type_name": "вокзал",
+                "transport_type": "train"
+            },
+            "to": {
+                "type": "station",
+                "title": "Симферополь-Пасс.",
+                "short_title": "",
+                "popular_title": "",
+                "code": "s9616627",
+                "station_type": "train_station",
+                "station_type_name": "вокзал",
+                "transport_type": "train"
+            },
+            "departure_platform": "",
+            "arrival_platform": "",
+            "departure_terminal": null,
+            "arrival_terminal": null,
+            "duration": 189180.0,
+            "days": "только 11 марта",
+            "except_days": "",
+            "departure": "01:27:00",
+            "arrival": "06:00:00",
+            "start_date": "2026-03-11"
+        },
+        {
+            "thread": {
+                "number": "077А",
+                "title": "Санкт-Петербург — Симферополь",
+                "short_title": "Санкт-Петербург — Симферополь",
+                "express_type": null,
+                "transport_type": "train",
+                "carrier": {
+                    "code": 63438,
+                    "title": "Гранд Сервис Экспресс (Таврия)",
+                    "codes": {
+                        "sirena": null,
+                        "iata": null,
+                        "icao": null
+                    },
+                    "address": null,
+                    "url": "http://grandtrain.ru",
+                    "email": null,
+                    "contacts": "",
+                    "phone": "",
+                    "logo": null,
+                    "logo_svg": null
+                },
+                "uid": "077A_18_2",
+                "vehicle": null,
+                "transport_subtype": {
+                    "title": null,
+                    "code": null,
+                    "color": null
+                },
+                "thread_method_link": "api.rasp.yandex.net/v3/thread/?date=2026-03-19&uid=077A_18_2"
+            },
+            "stops": "",
+            "from": {
+                "type": "station",
+                "title": "Санкт-Петербург (Московский вокзал)",
+                "short_title": "СПб-Моск.",
+                "popular_title": "Московский вокзал",
+                "code": "s9602494",
+                "station_type": "train_station",
+                "station_type_name": "вокзал",
+                "transport_type": "train"
+            },
+            "to": {
+                "type": "station",
+                "title": "Симферополь-Пасс.",
+                "short_title": "",
+                "popular_title": "",
+                "code": "s9616627",
+                "station_type": "train_station",
+                "station_type_name": "вокзал",
+                "transport_type": "train"
+            },
+            "departure_platform": "",
+            "arrival_platform": "",
+            "departure_terminal": null,
+            "arrival_terminal": null,
+            "duration": 189180.0,
+            "days": "только 12, 17, 19 марта",
+            "except_days": "",
+            "departure": "01:27:00",
+            "arrival": "06:00:00",
+            "start_date": "2026-03-19"
+        },
+        {
+            "thread": {
+                "number": "077А",
+                "title": "Санкт-Петербург — Симферополь",
+                "short_title": "Санкт-Петербург — Симферополь",
+                "express_type": null,
+                "transport_type": "train",
+                "carrier": {
+                    "code": 63438,
+                    "title": "Гранд Сервис Экспресс (Таврия)",
+                    "codes": {
+                        "sirena": null,
+                        "iata": null,
+                        "icao": null
+                    },
+                    "address": null,
+                    "url": "http://grandtrain.ru",
+                    "email": null,
+                    "contacts": "",
+                    "phone": "",
+                    "logo": null,
+                    "logo_svg": null
+                },
+                "uid": "077A_12_2",
+                "vehicle": null,
+                "transport_subtype": {
+                    "title": null,
+                    "code": null,
+                    "color": null
+                },
+                "thread_method_link": "api.rasp.yandex.net/v3/thread/?date=2026-03-24&uid=077A_12_2"
+            },
+            "stops": "",
+            "from": {
+                "type": "station",
+                "title": "Санкт-Петербург (Московский вокзал)",
+                "short_title": "СПб-Моск.",
+                "popular_title": "Московский вокзал",
+                "code": "s9602494",
+                "station_type": "train_station",
+                "station_type_name": "вокзал",
+                "transport_type": "train"
+            },
+            "to": {
+                "type": "station",
+                "title": "Симферополь-Пасс.",
+                "short_title": "",
+                "popular_title": "",
+                "code": "s9616627",
+                "station_type": "train_station",
+                "station_type_name": "вокзал",
+                "transport_type": "train"
+            },
+            "departure_platform": "",
+            "arrival_platform": "",
+            "departure_terminal": null,
+            "arrival_terminal": null,
+            "duration": 184980.0,
+            "days": "только 24, 26 марта",
+            "except_days": "",
+            "departure": "01:27:00",
+            "arrival": "04:50:00",
+            "start_date": "2026-03-24"
+        },
+        {
+            "thread": {
+                "number": "077А",
+                "title": "Санкт-Петербург — Симферополь",
+                "short_title": "Санкт-Петербург — Симферополь",
+                "express_type": null,
+                "transport_type": "train",
+                "carrier": {
+                    "code": 63438,
+                    "title": "Гранд Сервис Экспресс (Таврия)",
+                    "codes": {
+                        "sirena": null,
+                        "iata": null,
+                        "icao": null
+                    },
+                    "address": null,
+                    "url": "http://grandtrain.ru",
+                    "email": null,
+                    "contacts": "",
+                    "phone": "",
+                    "logo": null,
+                    "logo_svg": null
+                },
+                "uid": "077A_20_2",
+                "vehicle": null,
+                "transport_subtype": {
+                    "title": null,
+                    "code": null,
+                    "color": null
+                },
+                "thread_method_link": "api.rasp.yandex.net/v3/thread/?date=2026-04-14&uid=077A_20_2"
+            },
+            "stops": "",
+            "from": {
+                "type": "station",
+                "title": "Санкт-Петербург (Московский вокзал)",
+                "short_title": "СПб-Моск.",
+                "popular_title": "Московский вокзал",
+                "code": "s9602494",
+                "station_type": "train_station",
+                "station_type_name": "вокзал",
+                "transport_type": "train"
+            },
+            "to": {
+                "type": "station",
+                "title": "Симферополь-Пасс.",
+                "short_title": "",
+                "popular_title": "",
+                "code": "s9616627",
+                "station_type": "train_station",
+                "station_type_name": "вокзал",
+                "transport_type": "train"
+            },
+            "departure_platform": "",
+            "arrival_platform": "",
+            "departure_terminal": null,
+            "arrival_terminal": null,
+            "duration": 184980.0,
+            "days": "только 14, 15, 16, 21, 22, 23 апреля",
+            "except_days": "",
+            "departure": "01:27:00",
+            "arrival": "04:50:00",
+            "start_date": "2026-04-14"
+        },
+        {
+            "thread": {
+                "number": "077А",
+                "title": "Санкт-Петербург — Симферополь",
+                "short_title": "Санкт-Петербург — Симферополь",
+                "express_type": null,
+                "transport_type": "train",
+                "carrier": {
+                    "code": 63438,
+                    "title": "Гранд Сервис Экспресс (Таврия)",
+                    "codes": {
+                        "sirena": null,
+                        "iata": null,
+                        "icao": null
+                    },
+                    "address": null,
+                    "url": "http://grandtrain.ru",
+                    "email": null,
+                    "contacts": "",
+                    "phone": "",
+                    "logo": null,
+                    "logo_svg": null
+                },
+                "uid": "077A_3_2",
+                "vehicle": null,
+                "transport_subtype": {
+                    "title": null,
+                    "code": null,
+                    "color": null
+                },
+                "thread_method_link": "api.rasp.yandex.net/v3/thread/?date=2026-05-13&uid=077A_3_2"
+            },
+            "stops": "",
+            "from": {
+                "type": "station",
+                "title": "Санкт-Петербург (Московский вокзал)",
+                "short_title": "СПб-Моск.",
+                "popular_title": "Московский вокзал",
+                "code": "s9602494",
+                "station_type": "train_station",
+                "station_type_name": "вокзал",
+                "transport_type": "train"
+            },
+            "to": {
+                "type": "station",
+                "title": "Симферополь-Пасс.",
+                "short_title": "",
+                "popular_title": "",
+                "code": "s9616627",
+                "station_type": "train_station",
+                "station_type_name": "вокзал",
+                "transport_type": "train"
+            },
+            "departure_platform": "",
+            "arrival_platform": "",
+            "departure_terminal": null,
+            "arrival_terminal": null,
+            "duration": 184980.0,
+            "days": "вт, ср, чт с 13.05",
+            "except_days": "",
+            "departure": "01:27:00",
+            "arrival": "04:50:00",
+            "start_date": "2026-05-13"
+        },
+        {
+            "thread": {
+                "number": "077А",
+                "title": "Санкт-Петербург — Симферополь",
+                "short_title": "Санкт-Петербург — Симферополь",
+                "express_type": null,
+                "transport_type": "train",
+                "carrier": {
+                    "code": 63438,
+                    "title": "Гранд Сервис Экспресс (Таврия)",
+                    "codes": {
+                        "sirena": null,
+                        "iata": null,
+                        "icao": null
+                    },
+                    "address": null,
+                    "url": "http://grandtrain.ru",
+                    "email": null,
+                    "contacts": "",
+                    "phone": "",
+                    "logo": null,
+                    "logo_svg": null
+                },
+                "uid": "077A_10_2",
+                "vehicle": null,
+                "transport_subtype": {
+                    "title": null,
+                    "code": null,
+                    "color": null
+                },
+                "thread_method_link": "api.rasp.yandex.net/v3/thread/?date=2026-06-18&uid=077A_10_2"
+            },
+            "stops": "",
+            "from": {
+                "type": "station",
+                "title": "Санкт-Петербург (Московский вокзал)",
+                "short_title": "СПб-Моск.",
+                "popular_title": "Московский вокзал",
+                "code": "s9602494",
+                "station_type": "train_station",
+                "station_type_name": "вокзал",
+                "transport_type": "train"
+            },
+            "to": {
+                "type": "station",
+                "title": "Симферополь-Пасс.",
+                "short_title": "",
+                "popular_title": "",
+                "code": "s9616627",
+                "station_type": "train_station",
+                "station_type_name": "вокзал",
+                "transport_type": "train"
+            },
+            "departure_platform": "",
+            "arrival_platform": "",
+            "departure_terminal": null,
+            "arrival_terminal": null,
+            "duration": 184980.0,
+            "days": "только 18, 28, 30 июня",
+            "except_days": "",
+            "departure": "01:27:00",
+            "arrival": "04:50:00",
+            "start_date": "2026-06-18"
+        },
+        {
+            "thread": {
+                "number": "077А",
+                "title": "Санкт-Петербург — Симферополь",
+                "short_title": "Санкт-Петербург — Симферополь",
+                "express_type": null,
+                "transport_type": "train",
+                "carrier": {
+                    "code": 63438,
+                    "title": "Гранд Сервис Экспресс (Таврия)",
+                    "codes": {
+                        "sirena": null,
+                        "iata": null,
+                        "icao": null
+                    },
+                    "address": null,
+                    "url": "http://grandtrain.ru",
+                    "email": null,
+                    "contacts": "",
+                    "phone": "",
+                    "logo": null,
+                    "logo_svg": null
+                },
+                "uid": "077A_4_2",
+                "vehicle": null,
+                "transport_subtype": {
+                    "title": null,
+                    "code": null,
+                    "color": null
+                },
+                "thread_method_link": "api.rasp.yandex.net/v3/thread/?date=2026-03-09&uid=077A_4_2"
+            },
+            "stops": "",
+            "from": {
+                "type": "station",
+                "title": "Санкт-Петербург (Московский вокзал)",
+                "short_title": "СПб-Моск.",
+                "popular_title": "Московский вокзал",
+                "code": "s9602494",
+                "station_type": "train_station",
+                "station_type_name": "вокзал",
+                "transport_type": "train"
+            },
+            "to": {
+                "type": "station",
+                "title": "Симферополь-Пасс.",
+                "short_title": "",
+                "popular_title": "",
+                "code": "s9616627",
+                "station_type": "train_station",
+                "station_type_name": "вокзал",
+                "transport_type": "train"
+            },
+            "departure_platform": "",
+            "arrival_platform": "",
+            "departure_terminal": null,
+            "arrival_terminal": null,
+            "duration": 188400.0,
+            "days": "только 9 марта",
+            "except_days": "",
+            "departure": "01:40:00",
+            "arrival": "06:00:00",
+            "start_date": "2026-03-09"
+        },
+        {
+            "thread": {
+                "number": "077А",
+                "title": "Санкт-Петербург — Симферополь",
+                "short_title": "Санкт-Петербург — Симферополь",
+                "express_type": null,
+                "transport_type": "train",
+                "carrier": {
+                    "code": 63438,
+                    "title": "Гранд Сервис Экспресс (Таврия)",
+                    "codes": {
+                        "sirena": null,
+                        "iata": null,
+                        "icao": null
+                    },
+                    "address": null,
+                    "url": "http://grandtrain.ru",
+                    "email": null,
+                    "contacts": "",
+                    "phone": "",
+                    "logo": null,
+                    "logo_svg": null
+                },
+                "uid": "077A_17_2",
+                "vehicle": null,
+                "transport_subtype": {
+                    "title": null,
+                    "code": null,
+                    "color": null
+                },
+                "thread_method_link": "api.rasp.yandex.net/v3/thread/?date=2026-03-20&uid=077A_17_2"
+            },
+            "stops": "",
+            "from": {
+                "type": "station",
+                "title": "Санкт-Петербург (Московский вокзал)",
+                "short_title": "СПб-Моск.",
+                "popular_title": "Московский вокзал",
+                "code": "s9602494",
+                "station_type": "train_station",
+                "station_type_name": "вокзал",
+                "transport_type": "train"
+            },
+            "to": {
+                "type": "station",
+                "title": "Симферополь-Пасс.",
+                "short_title": "",
+                "popular_title": "",
+                "code": "s9616627",
+                "station_type": "train_station",
+                "station_type_name": "вокзал",
+                "transport_type": "train"
+            },
+            "departure_platform": "",
+            "arrival_platform": "",
+            "departure_terminal": null,
+            "arrival_terminal": null,
+            "duration": 188400.0,
+            "days": "пт, сб, вс по 22.03, а ещё 10.03, 16.03, 18.03",
+            "except_days": "",
+            "departure": "01:40:00",
+            "arrival": "06:00:00",
+            "start_date": "2026-03-20"
+        },
+        {
+            "thread": {
+                "number": "077А",
+                "title": "Санкт-Петербург — Симферополь",
+                "short_title": "Санкт-Петербург — Симферополь",
+                "express_type": null,
+                "transport_type": "train",
+                "carrier": {
+                    "code": 63438,
+                    "title": "Гранд Сервис Экспресс (Таврия)",
+                    "codes": {
+                        "sirena": null,
+                        "iata": null,
+                        "icao": null
+                    },
+                    "address": null,
+                    "url": "http://grandtrain.ru",
+                    "email": null,
+                    "contacts": "",
+                    "phone": "",
+                    "logo": null,
+                    "logo_svg": null
+                },
+                "uid": "077A_2_2",
+                "vehicle": null,
+                "transport_subtype": {
+                    "title": null,
+                    "code": null,
+                    "color": null
+                },
+                "thread_method_link": "api.rasp.yandex.net/v3/thread/?date=2026-03-23&uid=077A_2_2"
+            },
+            "stops": "",
+            "from": {
+                "type": "station",
+                "title": "Санкт-Петербург (Московский вокзал)",
+                "short_title": "СПб-Моск.",
+                "popular_title": "Московский вокзал",
+                "code": "s9602494",
+                "station_type": "train_station",
+                "station_type_name": "вокзал",
+                "transport_type": "train"
+            },
+            "to": {
+                "type": "station",
+                "title": "Симферополь-Пасс.",
+                "short_title": "",
+                "popular_title": "",
+                "code": "s9616627",
+                "station_type": "train_station",
+                "station_type_name": "вокзал",
+                "transport_type": "train"
+            },
+            "departure_platform": "",
+            "arrival_platform": "",
+            "departure_terminal": null,
+            "arrival_terminal": null,
+            "duration": 184200.0,
+            "days": "только 23, 25, 27, 28 марта",
+            "except_days": "",
+            "departure": "01:40:00",
+            "arrival": "04:50:00",
+            "start_date": "2026-03-23"
+        },
+        {
+            "thread": {
+                "number": "077А",
+                "title": "Санкт-Петербург — Симферополь",
+                "short_title": "Санкт-Петербург — Симферополь",
+                "express_type": null,
+                "transport_type": "train",
+                "carrier": {
+                    "code": 63438,
+                    "title": "Гранд Сервис Экспресс (Таврия)",
+                    "codes": {
+                        "sirena": null,
+                        "iata": null,
+                        "icao": null
+                    },
+                    "address": null,
+                    "url": "http://grandtrain.ru",
+                    "email": null,
+                    "contacts": "",
+                    "phone": "",
+                    "logo": null,
+                    "logo_svg": null
+                },
+                "uid": "077A_5_2",
+                "vehicle": null,
+                "transport_subtype": {
+                    "title": null,
+                    "code": null,
+                    "color": null
+                },
+                "thread_method_link": "api.rasp.yandex.net/v3/thread/?date=2026-03-29&uid=077A_5_2"
+            },
+            "stops": "",
+            "from": {
+                "type": "station",
+                "title": "Санкт-Петербург (Московский вокзал)",
+                "short_title": "СПб-Моск.",
+                "popular_title": "Московский вокзал",
+                "code": "s9602494",
+                "station_type": "train_station",
+                "station_type_name": "вокзал",
+                "transport_type": "train"
+            },
+            "to": {
+                "type": "station",
+                "title": "Симферополь-Пасс.",
+                "short_title": "",
+                "popular_title": "",
+                "code": "s9616627",
+                "station_type": "train_station",
+                "station_type_name": "вокзал",
+                "transport_type": "train"
+            },
+            "departure_platform": "",
+            "arrival_platform": "",
+            "departure_terminal": null,
+            "arrival_terminal": null,
+            "duration": 184200.0,
+            "days": "только 29, 30, 31 марта",
+            "except_days": "",
+            "departure": "01:40:00",
+            "arrival": "04:50:00",
+            "start_date": "2026-03-29"
+        },
+        {
+            "thread": {
+                "number": "077А",
+                "title": "Санкт-Петербург — Симферополь",
+                "short_title": "Санкт-Петербург — Симферополь",
+                "express_type": null,
+                "transport_type": "train",
+                "carrier": {
+                    "code": 63438,
+                    "title": "Гранд Сервис Экспресс (Таврия)",
+                    "codes": {
+                        "sirena": null,
+                        "iata": null,
+                        "icao": null
+                    },
+                    "address": null,
+                    "url": "http://grandtrain.ru",
+                    "email": null,
+                    "contacts": "",
+                    "phone": "",
+                    "logo": null,
+                    "logo_svg": null
+                },
+                "uid": "077A_7_2",
+                "vehicle": null,
+                "transport_subtype": {
+                    "title": null,
+                    "code": null,
+                    "color": null
+                },
+                "thread_method_link": "api.rasp.yandex.net/v3/thread/?date=2026-04-01&uid=077A_7_2"
+            },
+            "stops": "",
+            "from": {
+                "type": "station",
+                "title": "Санкт-Петербург (Московский вокзал)",
+                "short_title": "СПб-Моск.",
+                "popular_title": "Московский вокзал",
+                "code": "s9602494",
+                "station_type": "train_station",
+                "station_type_name": "вокзал",
+                "transport_type": "train"
+            },
+            "to": {
+                "type": "station",
+                "title": "Симферополь-Пасс.",
+                "short_title": "",
+                "popular_title": "",
+                "code": "s9616627",
+                "station_type": "train_station",
+                "station_type_name": "вокзал",
+                "transport_type": "train"
+            },
+            "departure_platform": "",
+            "arrival_platform": "",
+            "departure_terminal": null,
+            "arrival_terminal": null,
+            "duration": 184200.0,
+            "days": "только 1, 2, 3, 4 апреля",
+            "except_days": "",
+            "departure": "01:40:00",
+            "arrival": "04:50:00",
+            "start_date": "2026-04-01"
+        },
+        {
+            "thread": {
+                "number": "077А",
+                "title": "Санкт-Петербург — Симферополь",
+                "short_title": "Санкт-Петербург — Симферополь",
+                "express_type": null,
+                "transport_type": "train",
+                "carrier": {
+                    "code": 63438,
+                    "title": "Гранд Сервис Экспресс (Таврия)",
+                    "codes": {
+                        "sirena": null,
+                        "iata": null,
+                        "icao": null
+                    },
+                    "address": null,
+                    "url": "http://grandtrain.ru",
+                    "email": null,
+                    "contacts": "",
+                    "phone": "",
+                    "logo": null,
+                    "logo_svg": null
+                },
+                "uid": "077A_8_2",
+                "vehicle": null,
+                "transport_subtype": {
+                    "title": null,
+                    "code": null,
+                    "color": null
+                },
+                "thread_method_link": "api.rasp.yandex.net/v3/thread/?date=2026-04-05&uid=077A_8_2"
+            },
+            "stops": "",
+            "from": {
+                "type": "station",
+                "title": "Санкт-Петербург (Московский вокзал)",
+                "short_title": "СПб-Моск.",
+                "popular_title": "Московский вокзал",
+                "code": "s9602494",
+                "station_type": "train_station",
+                "station_type_name": "вокзал",
+                "transport_type": "train"
+            },
+            "to": {
+                "type": "station",
+                "title": "Симферополь-Пасс.",
+                "short_title": "",
+                "popular_title": "",
+                "code": "s9616627",
+                "station_type": "train_station",
+                "station_type_name": "вокзал",
+                "transport_type": "train"
+            },
+            "departure_platform": "",
+            "arrival_platform": "",
+            "departure_terminal": null,
+            "arrival_terminal": null,
+            "duration": 184200.0,
+            "days": "только 5 апреля",
+            "except_days": "",
+            "departure": "01:40:00",
+            "arrival": "04:50:00",
+            "start_date": "2026-04-05"
+        },
+        {
+            "thread": {
+                "number": "077А",
+                "title": "Санкт-Петербург — Симферополь",
+                "short_title": "Санкт-Петербург — Симферополь",
+                "express_type": null,
+                "transport_type": "train",
+                "carrier": {
+                    "code": 63438,
+                    "title": "Гранд Сервис Экспресс (Таврия)",
+                    "codes": {
+                        "sirena": null,
+                        "iata": null,
+                        "icao": null
+                    },
+                    "address": null,
+                    "url": "http://grandtrain.ru",
+                    "email": null,
+                    "contacts": "",
+                    "phone": "",
+                    "logo": null,
+                    "logo_svg": null
+                },
+                "uid": "077A_1_2",
+                "vehicle": null,
+                "transport_subtype": {
+                    "title": null,
+                    "code": null,
+                    "color": null
+                },
+                "thread_method_link": "api.rasp.yandex.net/v3/thread/?date=2026-04-06&uid=077A_1_2"
+            },
+            "stops": "",
+            "from": {
+                "type": "station",
+                "title": "Санкт-Петербург (Московский вокзал)",
+                "short_title": "СПб-Моск.",
+                "popular_title": "Московский вокзал",
+                "code": "s9602494",
+                "station_type": "train_station",
+                "station_type_name": "вокзал",
+                "transport_type": "train"
+            },
+            "to": {
+                "type": "station",
+                "title": "Симферополь-Пасс.",
+                "short_title": "",
+                "popular_title": "",
+                "code": "s9616627",
+                "station_type": "train_station",
+                "station_type_name": "вокзал",
+                "transport_type": "train"
+            },
+            "departure_platform": "",
+            "arrival_platform": "",
+            "departure_terminal": null,
+            "arrival_terminal": null,
+            "duration": 184200.0,
+            "days": "только 6 апреля",
+            "except_days": "",
+            "departure": "01:40:00",
+            "arrival": "04:50:00",
+            "start_date": "2026-04-06"
+        },
+        {
+            "thread": {
+                "number": "077А",
+                "title": "Санкт-Петербург — Симферополь",
+                "short_title": "Санкт-Петербург — Симферополь",
+                "express_type": null,
+                "transport_type": "train",
+                "carrier": {
+                    "code": 63438,
+                    "title": "Гранд Сервис Экспресс (Таврия)",
+                    "codes": {
+                        "sirena": null,
+                        "iata": null,
+                        "icao": null
+                    },
+                    "address": null,
+                    "url": "http://grandtrain.ru",
+                    "email": null,
+                    "contacts": "",
+                    "phone": "",
+                    "logo": null,
+                    "logo_svg": null
+                },
+                "uid": "077A_14_2",
+                "vehicle": null,
+                "transport_subtype": {
+                    "title": null,
+                    "code": null,
+                    "color": null
+                },
+                "thread_method_link": "api.rasp.yandex.net/v3/thread/?date=2026-04-07&uid=077A_14_2"
+            },
+            "stops": "",
+            "from": {
+                "type": "station",
+                "title": "Санкт-Петербург (Московский вокзал)",
+                "short_title": "СПб-Моск.",
+                "popular_title": "Московский вокзал",
+                "code": "s9602494",
+                "station_type": "train_station",
+                "station_type_name": "вокзал",
+                "transport_type": "train"
+            },
+            "to": {
+                "type": "station",
+                "title": "Симферополь-Пасс.",
+                "short_title": "",
+                "popular_title": "",
+                "code": "s9616627",
+                "station_type": "train_station",
+                "station_type_name": "вокзал",
+                "transport_type": "train"
+            },
+            "departure_platform": "",
+            "arrival_platform": "",
+            "departure_terminal": null,
+            "arrival_terminal": null,
+            "duration": 184200.0,
+            "days": "только 7, 8, 9 апреля",
+            "except_days": "",
+            "departure": "01:40:00",
+            "arrival": "04:50:00",
+            "start_date": "2026-04-07"
+        },
+        {
+            "thread": {
+                "number": "077А",
+                "title": "Санкт-Петербург — Симферополь",
+                "short_title": "Санкт-Петербург — Симферополь",
+                "express_type": null,
+                "transport_type": "train",
+                "carrier": {
+                    "code": 63438,
+                    "title": "Гранд Сервис Экспресс (Таврия)",
+                    "codes": {
+                        "sirena": null,
+                        "iata": null,
+                        "icao": null
+                    },
+                    "address": null,
+                    "url": "http://grandtrain.ru",
+                    "email": null,
+                    "contacts": "",
+                    "phone": "",
+                    "logo": null,
+                    "logo_svg": null
+                },
+                "uid": "077A_15_2",
+                "vehicle": null,
+                "transport_subtype": {
+                    "title": null,
+                    "code": null,
+                    "color": null
+                },
+                "thread_method_link": "api.rasp.yandex.net/v3/thread/?date=2026-04-10&uid=077A_15_2"
+            },
+            "stops": "",
+            "from": {
+                "type": "station",
+                "title": "Санкт-Петербург (Московский вокзал)",
+                "short_title": "СПб-Моск.",
+                "popular_title": "Московский вокзал",
+                "code": "s9602494",
+                "station_type": "train_station",
+                "station_type_name": "вокзал",
+                "transport_type": "train"
+            },
+            "to": {
+                "type": "station",
+                "title": "Симферополь-Пасс.",
+                "short_title": "",
+                "popular_title": "",
+                "code": "s9616627",
+                "station_type": "train_station",
+                "station_type_name": "вокзал",
+                "transport_type": "train"
+            },
+            "departure_platform": "",
+            "arrival_platform": "",
+            "departure_terminal": null,
+            "arrival_terminal": null,
+            "duration": 184200.0,
+            "days": "только 10, 12, 17, 19, 24 апреля",
+            "except_days": "",
+            "departure": "01:40:00",
+            "arrival": "04:50:00",
+            "start_date": "2026-04-10"
+        },
+        {
+            "thread": {
+                "number": "077А",
+                "title": "Санкт-Петербург — Симферополь",
+                "short_title": "Санкт-Петербург — Симферополь",
+                "express_type": null,
+                "transport_type": "train",
+                "carrier": {
+                    "code": 63438,
+                    "title": "Гранд Сервис Экспресс (Таврия)",
+                    "codes": {
+                        "sirena": null,
+                        "iata": null,
+                        "icao": null
+                    },
+                    "address": null,
+                    "url": "http://grandtrain.ru",
+                    "email": null,
+                    "contacts": "",
+                    "phone": "",
+                    "logo": null,
+                    "logo_svg": null
+                },
+                "uid": "077A_16_2",
+                "vehicle": null,
+                "transport_subtype": {
+                    "title": null,
+                    "code": null,
+                    "color": null
+                },
+                "thread_method_link": "api.rasp.yandex.net/v3/thread/?date=2026-04-11&uid=077A_16_2"
+            },
+            "stops": "",
+            "from": {
+                "type": "station",
+                "title": "Санкт-Петербург (Московский вокзал)",
+                "short_title": "СПб-Моск.",
+                "popular_title": "Московский вокзал",
+                "code": "s9602494",
+                "station_type": "train_station",
+                "station_type_name": "вокзал",
+                "transport_type": "train"
+            },
+            "to": {
+                "type": "station",
+                "title": "Симферополь-Пасс.",
+                "short_title": "",
+                "popular_title": "",
+                "code": "s9616627",
+                "station_type": "train_station",
+                "station_type_name": "вокзал",
+                "transport_type": "train"
+            },
+            "departure_platform": "",
+            "arrival_platform": "",
+            "departure_terminal": null,
+            "arrival_terminal": null,
+            "duration": 184200.0,
+            "days": "только 11, 18 апреля",
+            "except_days": "",
+            "departure": "01:40:00",
+            "arrival": "04:50:00",
+            "start_date": "2026-04-11"
+        },
+        {
+            "thread": {
+                "number": "077А",
+                "title": "Санкт-Петербург — Симферополь",
+                "short_title": "Санкт-Петербург — Симферополь",
+                "express_type": null,
+                "transport_type": "train",
+                "carrier": {
+                    "code": 63438,
+                    "title": "Гранд Сервис Экспресс (Таврия)",
+                    "codes": {
+                        "sirena": null,
+                        "iata": null,
+                        "icao": null
+                    },
+                    "address": null,
+                    "url": "http://grandtrain.ru",
+                    "email": null,
+                    "contacts": "",
+                    "phone": "",
+                    "logo": null,
+                    "logo_svg": null
+                },
+                "uid": "077A_19_2",
+                "vehicle": null,
+                "transport_subtype": {
+                    "title": null,
+                    "code": null,
+                    "color": null
+                },
+                "thread_method_link": "api.rasp.yandex.net/v3/thread/?date=2026-04-13&uid=077A_19_2"
+            },
+            "stops": "",
+            "from": {
+                "type": "station",
+                "title": "Санкт-Петербург (Московский вокзал)",
+                "short_title": "СПб-Моск.",
+                "popular_title": "Московский вокзал",
+                "code": "s9602494",
+                "station_type": "train_station",
+                "station_type_name": "вокзал",
+                "transport_type": "train"
+            },
+            "to": {
+                "type": "station",
+                "title": "Симферополь-Пасс.",
+                "short_title": "",
+                "popular_title": "",
+                "code": "s9616627",
+                "station_type": "train_station",
+                "station_type_name": "вокзал",
+                "transport_type": "train"
+            },
+            "departure_platform": "",
+            "arrival_platform": "",
+            "departure_terminal": null,
+            "arrival_terminal": null,
+            "duration": 184200.0,
+            "days": "только 13 апреля",
+            "except_days": "",
+            "departure": "01:40:00",
+            "arrival": "04:50:00",
+            "start_date": "2026-04-13"
+        },
+        {
+            "thread": {
+                "number": "077А",
+                "title": "Санкт-Петербург — Симферополь",
+                "short_title": "Санкт-Петербург — Симферополь",
+                "express_type": null,
+                "transport_type": "train",
+                "carrier": {
+                    "code": 63438,
+                    "title": "Гранд Сервис Экспресс (Таврия)",
+                    "codes": {
+                        "sirena": null,
+                        "iata": null,
+                        "icao": null
+                    },
+                    "address": null,
+                    "url": "http://grandtrain.ru",
+                    "email": null,
+                    "contacts": "",
+                    "phone": "",
+                    "logo": null,
+                    "logo_svg": null
+                },
+                "uid": "077A_21_2",
+                "vehicle": null,
+                "transport_subtype": {
+                    "title": null,
+                    "code": null,
+                    "color": null
+                },
+                "thread_method_link": "api.rasp.yandex.net/v3/thread/?date=2026-04-20&uid=077A_21_2"
+            },
+            "stops": "",
+            "from": {
+                "type": "station",
+                "title": "Санкт-Петербург (Московский вокзал)",
+                "short_title": "СПб-Моск.",
+                "popular_title": "Московский вокзал",
+                "code": "s9602494",
+                "station_type": "train_station",
+                "station_type_name": "вокзал",
+                "transport_type": "train"
+            },
+            "to": {
+                "type": "station",
+                "title": "Симферополь-Пасс.",
+                "short_title": "",
+                "popular_title": "",
+                "code": "s9616627",
+                "station_type": "train_station",
+                "station_type_name": "вокзал",
+                "transport_type": "train"
+            },
+            "departure_platform": "",
+            "arrival_platform": "",
+            "departure_terminal": null,
+            "arrival_terminal": null,
+            "duration": 184200.0,
+            "days": "только 20 апреля",
+            "except_days": "",
+            "departure": "01:40:00",
+            "arrival": "04:50:00",
+            "start_date": "2026-04-20"
+        },
+        {
+            "thread": {
+                "number": "077А",
+                "title": "Санкт-Петербург — Симферополь",
+                "short_title": "Санкт-Петербург — Симферополь",
+                "express_type": null,
+                "transport_type": "train",
+                "carrier": {
+                    "code": 63438,
+                    "title": "Гранд Сервис Экспресс (Таврия)",
+                    "codes": {
+                        "sirena": null,
+                        "iata": null,
+                        "icao": null
+                    },
+                    "address": null,
+                    "url": "http://grandtrain.ru",
+                    "email": null,
+                    "contacts": "",
+                    "phone": "",
+                    "logo": null,
+                    "logo_svg": null
+                },
+                "uid": "077A_22_2",
+                "vehicle": null,
+                "transport_subtype": {
+                    "title": null,
+                    "code": null,
+                    "color": null
+                },
+                "thread_method_link": "api.rasp.yandex.net/v3/thread/?date=2026-04-25&uid=077A_22_2"
+            },
+            "stops": "",
+            "from": {
+                "type": "station",
+                "title": "Санкт-Петербург (Московский вокзал)",
+                "short_title": "СПб-Моск.",
+                "popular_title": "Московский вокзал",
+                "code": "s9602494",
+                "station_type": "train_station",
+                "station_type_name": "вокзал",
+                "transport_type": "train"
+            },
+            "to": {
+                "type": "station",
+                "title": "Симферополь-Пасс.",
+                "short_title": "",
+                "popular_title": "",
+                "code": "s9616627",
+                "station_type": "train_station",
+                "station_type_name": "вокзал",
+                "transport_type": "train"
+            },
+            "departure_platform": "",
+            "arrival_platform": "",
+            "departure_terminal": null,
+            "arrival_terminal": null,
+            "duration": 184200.0,
+            "days": "только 25 апреля",
+            "except_days": "",
+            "departure": "01:40:00",
+            "arrival": "04:50:00",
+            "start_date": "2026-04-25"
+        },
+        {
+            "thread": {
+                "number": "077А",
+                "title": "Санкт-Петербург — Симферополь",
+                "short_title": "Санкт-Петербург — Симферополь",
+                "express_type": null,
+                "transport_type": "train",
+                "carrier": {
+                    "code": 63438,
+                    "title": "Гранд Сервис Экспресс (Таврия)",
+                    "codes": {
+                        "sirena": null,
+                        "iata": null,
+                        "icao": null
+                    },
+                    "address": null,
+                    "url": "http://grandtrain.ru",
+                    "email": null,
+                    "contacts": "",
+                    "phone": "",
+                    "logo": null,
+                    "logo_svg": null
+                },
+                "uid": "077A_23_2",
+                "vehicle": null,
+                "transport_subtype": {
+                    "title": null,
+                    "code": null,
+                    "color": null
+                },
+                "thread_method_link": "api.rasp.yandex.net/v3/thread/?date=2026-04-26&uid=077A_23_2"
+            },
+            "stops": "",
+            "from": {
+                "type": "station",
+                "title": "Санкт-Петербург (Московский вокзал)",
+                "short_title": "СПб-Моск.",
+                "popular_title": "Московский вокзал",
+                "code": "s9602494",
+                "station_type": "train_station",
+                "station_type_name": "вокзал",
+                "transport_type": "train"
+            },
+            "to": {
+                "type": "station",
+                "title": "Симферополь-Пасс.",
+                "short_title": "",
+                "popular_title": "",
+                "code": "s9616627",
+                "station_type": "train_station",
+                "station_type_name": "вокзал",
+                "transport_type": "train"
+            },
+            "departure_platform": "",
+            "arrival_platform": "",
+            "departure_terminal": null,
+            "arrival_terminal": null,
+            "duration": 184200.0,
+            "days": "только 26 апреля",
+            "except_days": "",
+            "departure": "01:40:00",
+            "arrival": "04:50:00",
+            "start_date": "2026-04-26"
+        },
+        {
+            "thread": {
+                "number": "077А",
+                "title": "Санкт-Петербург — Симферополь",
+                "short_title": "Санкт-Петербург — Симферополь",
+                "express_type": null,
+                "transport_type": "train",
+                "carrier": {
+                    "code": 63438,
+                    "title": "Гранд Сервис Экспресс (Таврия)",
+                    "codes": {
+                        "sirena": null,
+                        "iata": null,
+                        "icao": null
+                    },
+                    "address": null,
+                    "url": "http://grandtrain.ru",
+                    "email": null,
+                    "contacts": "",
+                    "phone": "",
+                    "logo": null,
+                    "logo_svg": null
+                },
+                "uid": "077A_6_2",
+                "vehicle": null,
+                "transport_subtype": {
+                    "title": null,
+                    "code": null,
+                    "color": null
+                },
+                "thread_method_link": "api.rasp.yandex.net/v3/thread/?date=2026-04-27&uid=077A_6_2"
+            },
+            "stops": "",
+            "from": {
+                "type": "station",
+                "title": "Санкт-Петербург (Московский вокзал)",
+                "short_title": "СПб-Моск.",
+                "popular_title": "Московский вокзал",
+                "code": "s9602494",
+                "station_type": "train_station",
+                "station_type_name": "вокзал",
+                "transport_type": "train"
+            },
+            "to": {
+                "type": "station",
+                "title": "Симферополь-Пасс.",
+                "short_title": "",
+                "popular_title": "",
+                "code": "s9616627",
+                "station_type": "train_station",
+                "station_type_name": "вокзал",
+                "transport_type": "train"
+            },
+            "departure_platform": "",
+            "arrival_platform": "",
+            "departure_terminal": null,
+            "arrival_terminal": null,
+            "duration": 184200.0,
+            "days": "27, 28, 29, 30 апреля, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 29, 31 мая, 2, 4, 6 июня, …",
+            "except_days": "",
+            "departure": "01:40:00",
+            "arrival": "04:50:00",
+            "start_date": "2026-04-27"
+        },
+        {
+            "thread": {
+                "number": "077А",
+                "title": "Санкт-Петербург — Симферополь",
+                "short_title": "Санкт-Петербург — Симферополь",
+                "express_type": null,
+                "transport_type": "train",
+                "carrier": {
+                    "code": 63438,
+                    "title": "Гранд Сервис Экспресс (Таврия)",
+                    "codes": {
+                        "sirena": null,
+                        "iata": null,
+                        "icao": null
+                    },
+                    "address": null,
+                    "url": "http://grandtrain.ru",
+                    "email": null,
+                    "contacts": "",
+                    "phone": "",
+                    "logo": null,
+                    "logo_svg": null
+                },
+                "uid": "077A_0_2",
+                "vehicle": null,
+                "transport_subtype": {
+                    "title": null,
+                    "code": null,
+                    "color": null
+                },
+                "thread_method_link": "api.rasp.yandex.net/v3/thread/?date=2026-05-12&uid=077A_0_2"
+            },
+            "stops": "",
+            "from": {
+                "type": "station",
+                "title": "Санкт-Петербург (Московский вокзал)",
+                "short_title": "СПб-Моск.",
+                "popular_title": "Московский вокзал",
+                "code": "s9602494",
+                "station_type": "train_station",
+                "station_type_name": "вокзал",
+                "transport_type": "train"
+            },
+            "to": {
+                "type": "station",
+                "title": "Симферополь-Пасс.",
+                "short_title": "",
+                "popular_title": "",
+                "code": "s9616627",
+                "station_type": "train_station",
+                "station_type_name": "вокзал",
+                "transport_type": "train"
+            },
+            "departure_platform": "",
+            "arrival_platform": "",
+            "departure_terminal": null,
+            "arrival_terminal": null,
+            "duration": 184200.0,
+            "days": "пн, пт, сб, вс с 12.05, а ещё 12.05",
+            "except_days": "",
+            "departure": "01:40:00",
+            "arrival": "04:50:00",
+            "start_date": "2026-05-12"
+        },
+        {
+            "thread": {
+                "number": "007А",
+                "title": "Санкт-Петербург — Севастополь",
+                "short_title": "Санкт-Петербург — Севастополь",
+                "express_type": null,
+                "transport_type": "train",
+                "carrier": {
+                    "code": 63438,
+                    "title": "Гранд Сервис Экспресс (Таврия)",
+                    "codes": {
+                        "sirena": null,
+                        "iata": null,
+                        "icao": null
+                    },
+                    "address": null,
+                    "url": "http://grandtrain.ru",
+                    "email": null,
+                    "contacts": "",
+                    "phone": "",
+                    "logo": null,
+                    "logo_svg": null
+                },
+                "uid": "007A_3_2",
+                "vehicle": null,
+                "transport_subtype": {
+                    "title": null,
+                    "code": null,
+                    "color": null
+                },
+                "thread_method_link": "api.rasp.yandex.net/v3/thread/?date=2026-05-12&uid=007A_3_2"
+            },
+            "stops": "",
+            "from": {
+                "type": "station",
+                "title": "Санкт-Петербург (Московский вокзал)",
+                "short_title": "СПб-Моск.",
+                "popular_title": "Московский вокзал",
+                "code": "s9602494",
+                "station_type": "train_station",
+                "station_type_name": "вокзал",
+                "transport_type": "train"
+            },
+            "to": {
+                "type": "station",
+                "title": "Симферополь-Пасс.",
+                "short_title": "",
+                "popular_title": "",
+                "code": "s9616627",
+                "station_type": "train_station",
+                "station_type_name": "вокзал",
+                "transport_type": "train"
+            },
+            "departure_platform": "",
+            "arrival_platform": "",
+            "departure_terminal": null,
+            "arrival_terminal": null,
+            "duration": 133080.0,
+            "days": "ежедневно, кроме пт, сб с 12.05",
+            "except_days": "",
+            "departure": "16:32:00",
+            "arrival": "05:30:00",
+            "start_date": "2026-05-12"
+        },
+        {
+            "thread": {
+                "number": "007А",
+                "title": "Санкт-Петербург — Севастополь",
+                "short_title": "Санкт-Петербург — Севастополь",
+                "express_type": null,
+                "transport_type": "train",
+                "carrier": {
+                    "code": 63438,
+                    "title": "Гранд Сервис Экспресс (Таврия)",
+                    "codes": {
+                        "sirena": null,
+                        "iata": null,
+                        "icao": null
+                    },
+                    "address": null,
+                    "url": "http://grandtrain.ru",
+                    "email": null,
+                    "contacts": "",
+                    "phone": "",
+                    "logo": null,
+                    "logo_svg": null
+                },
+                "uid": "007A_2_2",
+                "vehicle": null,
+                "transport_subtype": {
+                    "title": null,
+                    "code": null,
+                    "color": null
+                },
+                "thread_method_link": "api.rasp.yandex.net/v3/thread/?date=2026-05-15&uid=007A_2_2"
+            },
+            "stops": "",
+            "from": {
+                "type": "station",
+                "title": "Санкт-Петербург (Московский вокзал)",
+                "short_title": "СПб-Моск.",
+                "popular_title": "Московский вокзал",
+                "code": "s9602494",
+                "station_type": "train_station",
+                "station_type_name": "вокзал",
+                "transport_type": "train"
+            },
+            "to": {
+                "type": "station",
+                "title": "Симферополь-Пасс.",
+                "short_title": "",
+                "popular_title": "",
+                "code": "s9616627",
+                "station_type": "train_station",
+                "station_type_name": "вокзал",
+                "transport_type": "train"
+            },
+            "departure_platform": "",
+            "arrival_platform": "",
+            "departure_terminal": null,
+            "arrival_terminal": null,
+            "duration": 133080.0,
+            "days": "только 15, 16, 22, 23 мая",
+            "except_days": "",
+            "departure": "16:32:00",
+            "arrival": "05:30:00",
+            "start_date": "2026-05-15"
+        },
+        {
+            "thread": {
+                "number": "007А",
+                "title": "Санкт-Петербург — Севастополь",
+                "short_title": "Санкт-Петербург — Севастополь",
+                "express_type": null,
+                "transport_type": "train",
+                "carrier": {
+                    "code": 63438,
+                    "title": "Гранд Сервис Экспресс (Таврия)",
+                    "codes": {
+                        "sirena": null,
+                        "iata": null,
+                        "icao": null
+                    },
+                    "address": null,
+                    "url": "http://grandtrain.ru",
+                    "email": null,
+                    "contacts": "",
+                    "phone": "",
+                    "logo": null,
+                    "logo_svg": null
+                },
+                "uid": "007A_10_2",
+                "vehicle": null,
+                "transport_subtype": {
+                    "title": null,
+                    "code": null,
+                    "color": null
+                },
+                "thread_method_link": "api.rasp.yandex.net/v3/thread/?date=2026-04-06&uid=007A_10_2"
+            },
+            "stops": "",
+            "from": {
+                "type": "station",
+                "title": "Санкт-Петербург (Московский вокзал)",
+                "short_title": "СПб-Моск.",
+                "popular_title": "Московский вокзал",
+                "code": "s9602494",
+                "station_type": "train_station",
+                "station_type_name": "вокзал",
+                "transport_type": "train"
+            },
+            "to": {
+                "type": "station",
+                "title": "Симферополь-Пасс.",
+                "short_title": "",
+                "popular_title": "",
+                "code": "s9616627",
+                "station_type": "train_station",
+                "station_type_name": "вокзал",
+                "transport_type": "train"
+            },
+            "departure_platform": "",
+            "arrival_platform": "",
+            "departure_terminal": null,
+            "arrival_terminal": null,
+            "duration": 141720.0,
+            "days": "только 6, 7, 8, 9 апреля",
+            "except_days": "",
+            "departure": "16:33:00",
+            "arrival": "07:55:00",
+            "start_date": "2026-04-06"
+        },
+        {
+            "thread": {
+                "number": "007А",
+                "title": "Санкт-Петербург — Севастополь",
+                "short_title": "Санкт-Петербург — Севастополь",
+                "express_type": null,
+                "transport_type": "train",
+                "carrier": {
+                    "code": 63438,
+                    "title": "Гранд Сервис Экспресс (Таврия)",
+                    "codes": {
+                        "sirena": null,
+                        "iata": null,
+                        "icao": null
+                    },
+                    "address": null,
+                    "url": "http://grandtrain.ru",
+                    "email": null,
+                    "contacts": "",
+                    "phone": "",
+                    "logo": null,
+                    "logo_svg": null
+                },
+                "uid": "007A_14_2",
+                "vehicle": null,
+                "transport_subtype": {
+                    "title": null,
+                    "code": null,
+                    "color": null
+                },
+                "thread_method_link": "api.rasp.yandex.net/v3/thread/?date=2026-04-10&uid=007A_14_2"
+            },
+            "stops": "",
+            "from": {
+                "type": "station",
+                "title": "Санкт-Петербург (Московский вокзал)",
+                "short_title": "СПб-Моск.",
+                "popular_title": "Московский вокзал",
+                "code": "s9602494",
+                "station_type": "train_station",
+                "station_type_name": "вокзал",
+                "transport_type": "train"
+            },
+            "to": {
+                "type": "station",
+                "title": "Симферополь-Пасс.",
+                "short_title": "",
+                "popular_title": "",
+                "code": "s9616627",
+                "station_type": "train_station",
+                "station_type_name": "вокзал",
+                "transport_type": "train"
+            },
+            "departure_platform": "",
+            "arrival_platform": "",
+            "departure_terminal": null,
+            "arrival_terminal": null,
+            "duration": 141720.0,
+            "days": "ежедневно с 10.04 по 24.04",
+            "except_days": "",
+            "departure": "16:33:00",
+            "arrival": "07:55:00",
+            "start_date": "2026-04-10"
+        },
+        {
+            "thread": {
+                "number": "007А",
+                "title": "Санкт-Петербург — Севастополь",
+                "short_title": "Санкт-Петербург — Севастополь",
+                "express_type": null,
+                "transport_type": "train",
+                "carrier": {
+                    "code": 63438,
+                    "title": "Гранд Сервис Экспресс (Таврия)",
+                    "codes": {
+                        "sirena": null,
+                        "iata": null,
+                        "icao": null
+                    },
+                    "address": null,
+                    "url": "http://grandtrain.ru",
+                    "email": null,
+                    "contacts": "",
+                    "phone": "",
+                    "logo": null,
+                    "logo_svg": null
+                },
+                "uid": "007A_9_2",
+                "vehicle": null,
+                "transport_subtype": {
+                    "title": null,
+                    "code": null,
+                    "color": null
+                },
+                "thread_method_link": "api.rasp.yandex.net/v3/thread/?date=2026-04-25&uid=007A_9_2"
+            },
+            "stops": "",
+            "from": {
+                "type": "station",
+                "title": "Санкт-Петербург (Московский вокзал)",
+                "short_title": "СПб-Моск.",
+                "popular_title": "Московский вокзал",
+                "code": "s9602494",
+                "station_type": "train_station",
+                "station_type_name": "вокзал",
+                "transport_type": "train"
+            },
+            "to": {
+                "type": "station",
+                "title": "Симферополь-Пасс.",
+                "short_title": "",
+                "popular_title": "",
+                "code": "s9616627",
+                "station_type": "train_station",
+                "station_type_name": "вокзал",
+                "transport_type": "train"
+            },
+            "departure_platform": "",
+            "arrival_platform": "",
+            "departure_terminal": null,
+            "arrival_terminal": null,
+            "duration": 133020.0,
+            "days": "только 25 апреля",
+            "except_days": "",
+            "departure": "16:33:00",
+            "arrival": "05:30:00",
+            "start_date": "2026-04-25"
+        },
+        {
+            "thread": {
+                "number": "007А",
+                "title": "Санкт-Петербург — Севастополь",
+                "short_title": "Санкт-Петербург — Севастополь",
+                "express_type": null,
+                "transport_type": "train",
+                "carrier": {
+                    "code": 63438,
+                    "title": "Гранд Сервис Экспресс (Таврия)",
+                    "codes": {
+                        "sirena": null,
+                        "iata": null,
+                        "icao": null
+                    },
+                    "address": null,
+                    "url": "http://grandtrain.ru",
+                    "email": null,
+                    "contacts": "",
+                    "phone": "",
+                    "logo": null,
+                    "logo_svg": null
+                },
+                "uid": "007A_11_2",
+                "vehicle": null,
+                "transport_subtype": {
+                    "title": null,
+                    "code": null,
+                    "color": null
+                },
+                "thread_method_link": "api.rasp.yandex.net/v3/thread/?date=2026-04-26&uid=007A_11_2"
+            },
+            "stops": "",
+            "from": {
+                "type": "station",
+                "title": "Санкт-Петербург (Московский вокзал)",
+                "short_title": "СПб-Моск.",
+                "popular_title": "Московский вокзал",
+                "code": "s9602494",
+                "station_type": "train_station",
+                "station_type_name": "вокзал",
+                "transport_type": "train"
+            },
+            "to": {
+                "type": "station",
+                "title": "Симферополь-Пасс.",
+                "short_title": "",
+                "popular_title": "",
+                "code": "s9616627",
+                "station_type": "train_station",
+                "station_type_name": "вокзал",
+                "transport_type": "train"
+            },
+            "departure_platform": "",
+            "arrival_platform": "",
+            "departure_terminal": null,
+            "arrival_terminal": null,
+            "duration": 133020.0,
+            "days": "только 26 апреля",
+            "except_days": "",
+            "departure": "16:33:00",
+            "arrival": "05:30:00",
+            "start_date": "2026-04-26"
+        },
+        {
+            "thread": {
+                "number": "007А",
+                "title": "Санкт-Петербург — Севастополь",
+                "short_title": "Санкт-Петербург — Севастополь",
+                "express_type": null,
+                "transport_type": "train",
+                "carrier": {
+                    "code": 63438,
+                    "title": "Гранд Сервис Экспресс (Таврия)",
+                    "codes": {
+                        "sirena": null,
+                        "iata": null,
+                        "icao": null
+                    },
+                    "address": null,
+                    "url": "http://grandtrain.ru",
+                    "email": null,
+                    "contacts": "",
+                    "phone": "",
+                    "logo": null,
+                    "logo_svg": null
+                },
+                "uid": "007A_0_2",
+                "vehicle": null,
+                "transport_subtype": {
+                    "title": null,
+                    "code": null,
+                    "color": null
+                },
+                "thread_method_link": "api.rasp.yandex.net/v3/thread/?date=2026-03-22&uid=007A_0_2"
+            },
+            "stops": "",
+            "from": {
+                "type": "station",
+                "title": "Санкт-Петербург (Московский вокзал)",
+                "short_title": "СПб-Моск.",
+                "popular_title": "Московский вокзал",
+                "code": "s9602494",
+                "station_type": "train_station",
+                "station_type_name": "вокзал",
+                "transport_type": "train"
+            },
+            "to": {
+                "type": "station",
+                "title": "Симферополь-Пасс.",
+                "short_title": "",
+                "popular_title": "",
+                "code": "s9616627",
+                "station_type": "train_station",
+                "station_type_name": "вокзал",
+                "transport_type": "train"
+            },
+            "departure_platform": "",
+            "arrival_platform": "",
+            "departure_terminal": null,
+            "arrival_terminal": null,
+            "duration": 139200.0,
+            "days": "ежедневно с 22.03 по 05.04, кроме 23.03",
+            "except_days": "",
+            "departure": "17:15:00",
+            "arrival": "07:55:00",
+            "start_date": "2026-03-22"
+        },
+        {
+            "thread": {
+                "number": "007А",
+                "title": "Санкт-Петербург — Севастополь",
+                "short_title": "Санкт-Петербург — Севастополь",
+                "express_type": null,
+                "transport_type": "train",
+                "carrier": {
+                    "code": 63438,
+                    "title": "Гранд Сервис Экспресс (Таврия)",
+                    "codes": {
+                        "sirena": null,
+                        "iata": null,
+                        "icao": null
+                    },
+                    "address": null,
+                    "url": "http://grandtrain.ru",
+                    "email": null,
+                    "contacts": "",
+                    "phone": "",
+                    "logo": null,
+                    "logo_svg": null
+                },
+                "uid": "007A_8_2",
+                "vehicle": null,
+                "transport_subtype": {
+                    "title": null,
+                    "code": null,
+                    "color": null
+                },
+                "thread_method_link": "api.rasp.yandex.net/v3/thread/?date=2026-03-23&uid=007A_8_2"
+            },
+            "stops": "",
+            "from": {
+                "type": "station",
+                "title": "Санкт-Петербург (Московский вокзал)",
+                "short_title": "СПб-Моск.",
+                "popular_title": "Московский вокзал",
+                "code": "s9602494",
+                "station_type": "train_station",
+                "station_type_name": "вокзал",
+                "transport_type": "train"
+            },
+            "to": {
+                "type": "station",
+                "title": "Симферополь-Пасс.",
+                "short_title": "",
+                "popular_title": "",
+                "code": "s9616627",
+                "station_type": "train_station",
+                "station_type_name": "вокзал",
+                "transport_type": "train"
+            },
+            "departure_platform": "",
+            "arrival_platform": "",
+            "departure_terminal": null,
+            "arrival_terminal": null,
+            "duration": 139200.0,
+            "days": "только 23 марта",
+            "except_days": "",
+            "departure": "17:15:00",
+            "arrival": "07:55:00",
+            "start_date": "2026-03-23"
+        },
+        {
+            "thread": {
+                "number": "007А",
+                "title": "Санкт-Петербург — Севастополь",
+                "short_title": "Санкт-Петербург — Севастополь",
+                "express_type": null,
+                "transport_type": "train",
+                "carrier": {
+                    "code": 63438,
+                    "title": "Гранд Сервис Экспресс (Таврия)",
+                    "codes": {
+                        "sirena": null,
+                        "iata": null,
+                        "icao": null
+                    },
+                    "address": null,
+                    "url": "http://grandtrain.ru",
+                    "email": null,
+                    "contacts": "",
+                    "phone": "",
+                    "logo": null,
+                    "logo_svg": null
+                },
+                "uid": "007A_13_2",
+                "vehicle": null,
+                "transport_subtype": {
+                    "title": null,
+                    "code": null,
+                    "color": null
+                },
+                "thread_method_link": "api.rasp.yandex.net/v3/thread/?date=2026-03-20&uid=007A_13_2"
+            },
+            "stops": "",
+            "from": {
+                "type": "station",
+                "title": "Санкт-Петербург (Московский вокзал)",
+                "short_title": "СПб-Моск.",
+                "popular_title": "Московский вокзал",
+                "code": "s9602494",
+                "station_type": "train_station",
+                "station_type_name": "вокзал",
+                "transport_type": "train"
+            },
+            "to": {
+                "type": "station",
+                "title": "Симферополь-Пасс.",
+                "short_title": "",
+                "popular_title": "",
+                "code": "s9616627",
+                "station_type": "train_station",
+                "station_type_name": "вокзал",
+                "transport_type": "train"
+            },
+            "departure_platform": "",
+            "arrival_platform": "",
+            "departure_terminal": null,
+            "arrival_terminal": null,
+            "duration": 130500.0,
+            "days": "ежедневно по 21.03",
+            "except_days": "",
+            "departure": "17:15:00",
+            "arrival": "05:30:00",
+            "start_date": "2026-03-20"
+        },
+        {
+            "thread": {
+                "number": "007А",
+                "title": "Санкт-Петербург — Севастополь",
+                "short_title": "Санкт-Петербург — Севастополь",
+                "express_type": null,
+                "transport_type": "train",
+                "carrier": {
+                    "code": 63438,
+                    "title": "Гранд Сервис Экспресс (Таврия)",
+                    "codes": {
+                        "sirena": null,
+                        "iata": null,
+                        "icao": null
+                    },
+                    "address": null,
+                    "url": "http://grandtrain.ru",
+                    "email": null,
+                    "contacts": "",
+                    "phone": "",
+                    "logo": null,
+                    "logo_svg": null
+                },
+                "uid": "007A_12_2",
+                "vehicle": null,
+                "transport_subtype": {
+                    "title": null,
+                    "code": null,
+                    "color": null
+                },
+                "thread_method_link": "api.rasp.yandex.net/v3/thread/?date=2026-04-27&uid=007A_12_2"
+            },
+            "stops": "",
+            "from": {
+                "type": "station",
+                "title": "Санкт-Петербург (Московский вокзал)",
+                "short_title": "СПб-Моск.",
+                "popular_title": "Московский вокзал",
+                "code": "s9602494",
+                "station_type": "train_station",
+                "station_type_name": "вокзал",
+                "transport_type": "train"
+            },
+            "to": {
+                "type": "station",
+                "title": "Симферополь-Пасс.",
+                "short_title": "",
+                "popular_title": "",
+                "code": "s9616627",
+                "station_type": "train_station",
+                "station_type_name": "вокзал",
+                "transport_type": "train"
+            },
+            "departure_platform": "",
+            "arrival_platform": "",
+            "departure_terminal": null,
+            "arrival_terminal": null,
+            "duration": 130500.0,
+            "days": "27, 28, 29, 30 апреля, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 29, 30 мая, 5, 6, 11 июня, …",
+            "except_days": "",
+            "departure": "17:15:00",
+            "arrival": "05:30:00",
+            "start_date": "2026-04-27"
+        },
+        {
+            "thread": {
+                "number": "007А",
+                "title": "Санкт-Петербург — Севастополь",
+                "short_title": "Санкт-Петербург — Севастополь",
+                "express_type": null,
+                "transport_type": "train",
+                "carrier": {
+                    "code": 63438,
+                    "title": "Гранд Сервис Экспресс (Таврия)",
+                    "codes": {
+                        "sirena": null,
+                        "iata": null,
+                        "icao": null
+                    },
+                    "address": null,
+                    "url": "http://grandtrain.ru",
+                    "email": null,
+                    "contacts": "",
+                    "phone": "",
+                    "logo": null,
+                    "logo_svg": null
+                },
+                "uid": "007A_7_2",
+                "vehicle": null,
+                "transport_subtype": {
+                    "title": null,
+                    "code": null,
+                    "color": null
+                },
+                "thread_method_link": "api.rasp.yandex.net/v3/thread/?date=2026-05-28&uid=007A_7_2"
+            },
+            "stops": "",
+            "from": {
+                "type": "station",
+                "title": "Санкт-Петербург (Московский вокзал)",
+                "short_title": "СПб-Моск.",
+                "popular_title": "Московский вокзал",
+                "code": "s9602494",
+                "station_type": "train_station",
+                "station_type_name": "вокзал",
+                "transport_type": "train"
+            },
+            "to": {
+                "type": "station",
+                "title": "Симферополь-Пасс.",
+                "short_title": "",
+                "popular_title": "",
+                "code": "s9616627",
+                "station_type": "train_station",
+                "station_type_name": "вокзал",
+                "transport_type": "train"
+            },
+            "departure_platform": "",
+            "arrival_platform": "",
+            "departure_terminal": null,
+            "arrival_terminal": null,
+            "duration": 130500.0,
+            "days": "пн, вт, ср, вс с 28.05, а ещё 28.05, 04.06",
+            "except_days": "",
+            "departure": "17:15:00",
+            "arrival": "05:30:00",
+            "start_date": "2026-05-28"
+        },
+        {
+            "thread": {
+                "number": "181В",
+                "title": "Санкт-Петербург — Симферополь",
+                "short_title": "Санкт-Петербург — Симферополь",
+                "express_type": null,
+                "transport_type": "train",
+                "carrier": {
+                    "code": 63438,
+                    "title": "Гранд Сервис Экспресс (Таврия)",
+                    "codes": {
+                        "sirena": null,
+                        "iata": null,
+                        "icao": null
+                    },
+                    "address": null,
+                    "url": "http://grandtrain.ru",
+                    "email": null,
+                    "contacts": "",
+                    "phone": "",
+                    "logo": null,
+                    "logo_svg": null
+                },
+                "uid": "181V_1_2",
+                "vehicle": null,
+                "transport_subtype": {
+                    "title": null,
+                    "code": null,
+                    "color": null
+                },
+                "thread_method_link": "api.rasp.yandex.net/v3/thread/?date=2026-09-27&uid=181V_1_2"
+            },
+            "stops": "",
+            "from": {
+                "type": "station",
+                "title": "Санкт-Петербург (Московский вокзал)",
+                "short_title": "СПб-Моск.",
+                "popular_title": "Московский вокзал",
+                "code": "s9602494",
+                "station_type": "train_station",
+                "station_type_name": "вокзал",
+                "transport_type": "train"
+            },
+            "to": {
+                "type": "station",
+                "title": "Симферополь-Пасс.",
+                "short_title": "",
+                "popular_title": "",
+                "code": "s9616627",
+                "station_type": "train_station",
+                "station_type_name": "вокзал",
+                "transport_type": "train"
+            },
+            "departure_platform": "",
+            "arrival_platform": "",
+            "departure_terminal": null,
+            "arrival_terminal": null,
+            "duration": 148440.0,
+            "days": "ежедневно с 27.09",
+            "except_days": "",
+            "departure": "19:26:00",
+            "arrival": "12:40:00",
+            "start_date": "2026-09-27"
+        }
+    ],
+    "interval_segments": [],
+    "pagination": {
+        "total": 34,
+        "limit": 100,
+        "offset": 0
+    }
+}
