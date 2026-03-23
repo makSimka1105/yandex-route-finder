@@ -12,11 +12,8 @@ set(CMAKE_EXPORT_COMPILE_COMMANDS ON)
 
 include(FetchContent)
 
-if(CPR_USE_SYSTEM_CURL)
-  set(CPR_FORCE_USE_SYSTEM_CURL ON CACHE BOOL "libcpr: use system libcurl" FORCE)
-else()
-  set(CPR_FORCE_USE_SYSTEM_CURL OFF CACHE BOOL "libcpr: use system libcurl" FORCE)
-endif()
+#find_package(CURL REQUIRED COMPONENTS HTTP HTTPS)
+#set(CPR_FORCE_USE_SYSTEM_CURL ON CACHE BOOL "Use system libcurl" FORCE)
 
 FetchContent_Declare(cpr
     GIT_REPOSITORY https://github.com/libcpr/cpr.git
